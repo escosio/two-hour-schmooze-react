@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+.App {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  border-bottom: solid;
+}
+
+.results {
+  text-align: left;
+  width: 95%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+.team-selection {
+  padding: 10px;
+}
+
+td {
+  border-bottom: dotted;
+}
+
+.team-selection {
+  display: flexbox;
+  flex-direction: column;
+  list-style: none;
+}
+
+.team-selection select {
+  margin: 5px;
+  width: 33%;
+  min-width: 120px;
+  margin-left: 33%;
+  margin-right: 33%;
+}
+
+/* .team-selection button {
+  width: 100px;
+  justify-content: center;
+  margin: auto;
+} */
