@@ -1,6 +1,6 @@
 import "./styles.css";
 import { useState } from "react";
-import { keepers } from "../public/data";
+import { keepers } from "./keeper_data";
 import { Header } from "./Header";
 import { PlayerFilter } from "./PlayerFilter";
 import { Results } from "./Results";
