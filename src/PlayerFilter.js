@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 export const PlayerFilter = ({
   players,
   keepers,
@@ -19,7 +21,7 @@ export const PlayerFilter = ({
 
   const playersNames = [
     ...new Set(players.map((player) => player.player_name)),
-  ];
+  ].sort();
 
   function handleReset() {
     onReset();
@@ -31,6 +33,12 @@ export const PlayerFilter = ({
   return (
     <>
       <h3>⚾️ Keepers History 🏟️</h3>
+      <p className="subheader">
+        Historical table of keepers for the legendary fantasy baseball league,
+        Two Hour Schmooze Radio. You may filter by Fantasy Owner, year, or
+        player.
+      </p>
+      {/* <Rules /> */}
       <form className="team-selection" onSubmit={onHandleSearch}>
         <DropDownOption filterName="team" value={team} onSetFilter={onSetTeam}>
           {owners.map((owner) => (
@@ -96,5 +104,33 @@ function DropDownOption({
         </select>
       )}
     </li>
+  );
+}
+
+function Rules() {
+  const [isOpen, setIsOpen] = useState(false);
+
+  return (
+    <div className="rules">
+      <div>
+        <h4>Rules</h4>
+        <button
+          className="icon"
+          onClick={() => setIsOpen(!isOpen)}
+          style={{ marginLeft: "10px" }}
+        >
+          {isOpen ? <>&times;</> : "+"}
+        </button>
+      </div>
+      {isOpen && (
+        <ol>
+          <li>Players can be kept for up to 3 consecutive years</li>
+          <li>
+            Players price will increase at a scale based on the times being
+            kept. 1st time ($3), 2nd time ($5) and 3rd time ($7)
+          </li>
+        </ol>
+      )}
+    </div>
   );
 }

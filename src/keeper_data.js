@@ -7,8 +7,6 @@ export const keepers = [
     price: 40,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -18,8 +16,6 @@ export const keepers = [
     price: 22,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -29,8 +25,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -40,8 +34,6 @@ export const keepers = [
     price: 11,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -51,8 +43,6 @@ export const keepers = [
     price: 33,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -62,8 +52,6 @@ export const keepers = [
     price: 16,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -73,8 +61,6 @@ export const keepers = [
     price: 14,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -84,8 +70,6 @@ export const keepers = [
     price: 5,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -95,8 +79,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -106,8 +88,6 @@ export const keepers = [
     price: 17,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -117,8 +97,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -128,8 +106,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -139,8 +115,6 @@ export const keepers = [
     price: 5,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -150,8 +124,6 @@ export const keepers = [
     price: 5,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -161,8 +133,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -172,8 +142,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -183,8 +151,6 @@ export const keepers = [
     price: 45,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -194,8 +160,6 @@ export const keepers = [
     price: 9,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -205,8 +169,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -216,8 +178,6 @@ export const keepers = [
     price: 6,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -227,8 +187,6 @@ export const keepers = [
     price: 31,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -238,8 +196,6 @@ export const keepers = [
     price: 41,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -249,8 +205,6 @@ export const keepers = [
     price: 17,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -260,8 +214,6 @@ export const keepers = [
     price: 62,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -271,8 +223,6 @@ export const keepers = [
     price: 12,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -282,8 +232,6 @@ export const keepers = [
     price: 8,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -293,8 +241,6 @@ export const keepers = [
     price: 8,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -304,8 +250,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -315,8 +259,6 @@ export const keepers = [
     price: 12,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -326,8 +268,6 @@ export const keepers = [
     price: 37,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -337,8 +277,6 @@ export const keepers = [
     price: 41,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -348,8 +286,6 @@ export const keepers = [
     price: 32,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -359,8 +295,6 @@ export const keepers = [
     price: 44,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -370,8 +304,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -381,8 +313,6 @@ export const keepers = [
     price: 20,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -392,8 +322,6 @@ export const keepers = [
     price: 26,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -403,8 +331,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -414,8 +340,6 @@ export const keepers = [
     price: 49,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -425,8 +349,6 @@ export const keepers = [
     price: 28,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -436,8 +358,6 @@ export const keepers = [
     price: 28,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -447,8 +367,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -458,8 +376,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -469,8 +385,6 @@ export const keepers = [
     price: 23,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -480,8 +394,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -491,8 +403,6 @@ export const keepers = [
     price: 6,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -502,8 +412,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -513,8 +421,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -524,8 +430,6 @@ export const keepers = [
     price: 31,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -535,8 +439,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -546,8 +448,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -557,8 +457,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -568,8 +466,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -579,8 +475,6 @@ export const keepers = [
     price: 16,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -590,8 +484,6 @@ export const keepers = [
     price: 24,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -601,8 +493,6 @@ export const keepers = [
     price: 27,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -612,8 +502,6 @@ export const keepers = [
     price: 31,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -623,8 +511,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -634,8 +520,6 @@ export const keepers = [
     price: 26,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -645,8 +529,6 @@ export const keepers = [
     price: 47,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -656,8 +538,6 @@ export const keepers = [
     price: 48,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -667,8 +547,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -678,8 +556,6 @@ export const keepers = [
     price: 27,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -689,8 +565,6 @@ export const keepers = [
     price: 48,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2020,
@@ -700,8 +574,6 @@ export const keepers = [
     price: 18,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -711,8 +583,6 @@ export const keepers = [
     price: 25,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -722,8 +592,6 @@ export const keepers = [
     price: 12,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -733,8 +601,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -744,8 +610,6 @@ export const keepers = [
     price: 46,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -755,8 +619,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -766,8 +628,6 @@ export const keepers = [
     price: 29,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -777,8 +637,6 @@ export const keepers = [
     price: 31,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -788,8 +646,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -799,8 +655,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -810,8 +664,6 @@ export const keepers = [
     price: 2,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -821,8 +673,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -832,8 +682,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -843,8 +691,6 @@ export const keepers = [
     price: 2,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -854,8 +700,6 @@ export const keepers = [
     price: 51,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -865,8 +709,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -876,8 +718,6 @@ export const keepers = [
     price: 32,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -887,8 +727,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -898,8 +736,6 @@ export const keepers = [
     price: 9,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -909,8 +745,6 @@ export const keepers = [
     price: 6,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -920,8 +754,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -931,8 +763,6 @@ export const keepers = [
     price: 16,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -942,8 +772,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -953,8 +781,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -964,8 +790,6 @@ export const keepers = [
     price: 3,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -975,8 +799,6 @@ export const keepers = [
     price: 26,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -986,8 +808,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -997,8 +817,6 @@ export const keepers = [
     price: 5,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1008,8 +826,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1019,8 +835,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1030,8 +844,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1041,8 +853,6 @@ export const keepers = [
     price: 18,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1052,8 +862,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1063,8 +871,6 @@ export const keepers = [
     price: 24,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1074,8 +880,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1085,8 +889,6 @@ export const keepers = [
     price: 13,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1096,8 +898,6 @@ export const keepers = [
     price: 31,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1107,8 +907,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1118,8 +916,6 @@ export const keepers = [
     price: 62,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1129,8 +925,6 @@ export const keepers = [
     price: 29,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1140,8 +934,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1151,8 +943,6 @@ export const keepers = [
     price: 15,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1162,8 +952,6 @@ export const keepers = [
     price: 24,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1173,8 +961,6 @@ export const keepers = [
     price: 48,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1184,8 +970,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1195,8 +979,6 @@ export const keepers = [
     price: 16,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1206,8 +988,6 @@ export const keepers = [
     price: 27,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1217,8 +997,6 @@ export const keepers = [
     price: 48,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1228,8 +1006,6 @@ export const keepers = [
     price: 18,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1239,8 +1015,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1250,8 +1024,6 @@ export const keepers = [
     price: 45,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1261,8 +1033,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1272,8 +1042,6 @@ export const keepers = [
     price: 9,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1283,8 +1051,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1294,8 +1060,6 @@ export const keepers = [
     price: 36,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1305,8 +1069,6 @@ export const keepers = [
     price: 6,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1316,8 +1078,6 @@ export const keepers = [
     price: 15,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1327,8 +1087,6 @@ export const keepers = [
     price: 5,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1338,8 +1096,6 @@ export const keepers = [
     price: 6,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1349,8 +1105,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1360,8 +1114,6 @@ export const keepers = [
     price: 8,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1371,8 +1123,6 @@ export const keepers = [
     price: 8,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1382,8 +1132,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1393,8 +1141,6 @@ export const keepers = [
     price: 44,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1404,8 +1150,6 @@ export const keepers = [
     price: 21,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1415,8 +1159,6 @@ export const keepers = [
     price: 37,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1426,8 +1168,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1437,8 +1177,6 @@ export const keepers = [
     price: 1,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1448,8 +1186,6 @@ export const keepers = [
     price: 41,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1459,8 +1195,6 @@ export const keepers = [
     price: 17,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1470,8 +1204,6 @@ export const keepers = [
     price: 44,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1481,8 +1213,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1492,8 +1222,6 @@ export const keepers = [
     price: 12,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1503,8 +1231,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1514,8 +1240,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1525,8 +1249,6 @@ export const keepers = [
     price: 20,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1536,8 +1258,6 @@ export const keepers = [
     price: 26,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1547,8 +1267,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1558,8 +1276,6 @@ export const keepers = [
     price: 28,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1569,8 +1285,6 @@ export const keepers = [
     price: 2,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1580,8 +1294,6 @@ export const keepers = [
     price: 11,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1591,8 +1303,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1602,8 +1312,6 @@ export const keepers = [
     price: 6,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1613,8 +1321,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1624,8 +1330,6 @@ export const keepers = [
     price: 23,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1635,8 +1339,6 @@ export const keepers = [
     price: 24,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1646,8 +1348,6 @@ export const keepers = [
     price: 3,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1657,8 +1357,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1668,8 +1366,6 @@ export const keepers = [
     price: 28,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1679,8 +1375,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1690,8 +1384,6 @@ export const keepers = [
     price: 22,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1701,8 +1393,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1712,8 +1402,6 @@ export const keepers = [
     price: 33,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1723,8 +1411,6 @@ export const keepers = [
     price: 14,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1734,8 +1420,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1745,8 +1429,6 @@ export const keepers = [
     price: 13,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1756,8 +1438,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1767,8 +1447,6 @@ export const keepers = [
     price: 40,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1778,8 +1456,6 @@ export const keepers = [
     price: 22,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1789,8 +1465,6 @@ export const keepers = [
     price: 35,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1800,8 +1474,6 @@ export const keepers = [
     price: 33,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1811,8 +1483,6 @@ export const keepers = [
     price: 10,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1822,8 +1492,6 @@ export const keepers = [
     price: 5,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1833,8 +1501,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1844,8 +1510,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1855,8 +1519,6 @@ export const keepers = [
     price: 27,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1866,8 +1528,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1877,8 +1537,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1888,8 +1546,6 @@ export const keepers = [
     price: 25,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1899,8 +1555,6 @@ export const keepers = [
     price: 1,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1910,8 +1564,6 @@ export const keepers = [
     price: 26,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1921,8 +1573,6 @@ export const keepers = [
     price: 29,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2021,
@@ -1932,8 +1582,6 @@ export const keepers = [
     price: 30,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -1943,8 +1591,6 @@ export const keepers = [
     price: 30,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -1954,8 +1600,6 @@ export const keepers = [
     price: 6,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -1965,8 +1609,6 @@ export const keepers = [
     price: 34,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -1976,8 +1618,6 @@ export const keepers = [
     price: 38,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -1987,8 +1627,6 @@ export const keepers = [
     price: 11,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -1998,8 +1636,6 @@ export const keepers = [
     price: 4,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2009,8 +1645,6 @@ export const keepers = [
     price: 9,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2020,8 +1654,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2031,8 +1663,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2042,8 +1672,6 @@ export const keepers = [
     price: 37,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2053,8 +1681,6 @@ export const keepers = [
     price: 6,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2064,8 +1690,6 @@ export const keepers = [
     price: 11,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2075,8 +1699,6 @@ export const keepers = [
     price: 23,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2086,8 +1708,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2097,8 +1717,6 @@ export const keepers = [
     price: 5,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2108,8 +1726,6 @@ export const keepers = [
     price: 6,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2119,8 +1735,6 @@ export const keepers = [
     price: 6,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2130,8 +1744,6 @@ export const keepers = [
     price: 23,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2141,8 +1753,6 @@ export const keepers = [
     price: 9,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2152,8 +1762,6 @@ export const keepers = [
     price: 6,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2163,8 +1771,6 @@ export const keepers = [
     price: 5,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2174,8 +1780,6 @@ export const keepers = [
     price: 29,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2185,8 +1789,6 @@ export const keepers = [
     price: 5,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2196,8 +1798,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2207,8 +1807,6 @@ export const keepers = [
     price: 34,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2218,8 +1816,6 @@ export const keepers = [
     price: 29,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2229,8 +1825,6 @@ export const keepers = [
     price: 55,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2240,8 +1834,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2251,8 +1843,6 @@ export const keepers = [
     price: 55,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2262,8 +1852,6 @@ export const keepers = [
     price: 25,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2273,8 +1861,6 @@ export const keepers = [
     price: 11,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2284,8 +1870,6 @@ export const keepers = [
     price: 16,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2295,8 +1879,6 @@ export const keepers = [
     price: 41,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2306,8 +1888,6 @@ export const keepers = [
     price: 23,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2317,8 +1897,6 @@ export const keepers = [
     price: 13,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2328,8 +1906,6 @@ export const keepers = [
     price: 10,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2339,8 +1915,6 @@ export const keepers = [
     price: 16,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2350,8 +1924,6 @@ export const keepers = [
     price: 15,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2361,8 +1933,6 @@ export const keepers = [
     price: 13,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2372,8 +1942,6 @@ export const keepers = [
     price: 9,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2383,8 +1951,6 @@ export const keepers = [
     price: 23,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2394,8 +1960,6 @@ export const keepers = [
     price: 8,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2405,8 +1969,6 @@ export const keepers = [
     price: 51,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2416,8 +1978,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2427,8 +1987,6 @@ export const keepers = [
     price: 17,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2438,8 +1996,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2449,8 +2005,6 @@ export const keepers = [
     price: 27,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2460,8 +2014,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2471,8 +2023,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2482,8 +2032,6 @@ export const keepers = [
     price: 35,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2493,8 +2041,6 @@ export const keepers = [
     price: 36,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2504,8 +2050,6 @@ export const keepers = [
     price: 8,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2515,8 +2059,6 @@ export const keepers = [
     price: 13,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2526,8 +2068,6 @@ export const keepers = [
     price: 16,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2537,8 +2077,6 @@ export const keepers = [
     price: 31,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2548,8 +2086,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2559,8 +2095,6 @@ export const keepers = [
     price: 13,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2570,8 +2104,6 @@ export const keepers = [
     price: 23,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2581,8 +2113,6 @@ export const keepers = [
     price: 5,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2592,8 +2122,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2603,8 +2131,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2614,8 +2140,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2625,8 +2149,6 @@ export const keepers = [
     price: 17,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2636,8 +2158,6 @@ export const keepers = [
     price: 10,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2647,8 +2167,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2658,8 +2176,6 @@ export const keepers = [
     price: 22,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2669,8 +2185,6 @@ export const keepers = [
     price: 20,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2680,8 +2194,6 @@ export const keepers = [
     price: 11,
     times_kept: 3,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2691,8 +2203,6 @@ export const keepers = [
     price: 30,
     times_kept: 2,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2022,
@@ -2702,8 +2212,6 @@ export const keepers = [
     price: 19,
     times_kept: 1,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2713,8 +2221,6 @@ export const keepers = [
     price: 27,
     times_kept: 2,
     "2024_price_to_keep": "34",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2724,8 +2230,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2735,8 +2239,6 @@ export const keepers = [
     price: 20,
     times_kept: 1,
     "2024_price_to_keep": "25",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2746,8 +2248,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2757,8 +2257,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2768,8 +2266,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2779,8 +2275,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2790,8 +2284,6 @@ export const keepers = [
     price: 43,
     times_kept: 1,
     "2024_price_to_keep": "48",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2801,8 +2293,6 @@ export const keepers = [
     price: 52,
     times_kept: 2,
     "2024_price_to_keep": "59",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2812,8 +2302,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2823,8 +2311,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2834,8 +2320,6 @@ export const keepers = [
     price: 9,
     times_kept: 1,
     "2024_price_to_keep": "14",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2845,8 +2329,6 @@ export const keepers = [
     price: 13,
     times_kept: 3,
     "2024_price_to_keep": "-",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2856,8 +2338,6 @@ export const keepers = [
     price: 13,
     times_kept: 3,
     "2024_price_to_keep": "-",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2867,8 +2347,6 @@ export const keepers = [
     price: 14,
     times_kept: 2,
     "2024_price_to_keep": "21",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2878,8 +2356,6 @@ export const keepers = [
     price: 21,
     times_kept: 1,
     "2024_price_to_keep": "26",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2889,8 +2365,6 @@ export const keepers = [
     price: 10,
     times_kept: 2,
     "2024_price_to_keep": "17",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2900,8 +2374,6 @@ export const keepers = [
     price: 17,
     times_kept: 1,
     "2024_price_to_keep": "22",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2911,8 +2383,6 @@ export const keepers = [
     price: 23,
     times_kept: 1,
     "2024_price_to_keep": "28",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2922,8 +2392,6 @@ export const keepers = [
     price: 11,
     times_kept: 1,
     "2024_price_to_keep": "16",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2933,8 +2401,6 @@ export const keepers = [
     price: 11,
     times_kept: 3,
     "2024_price_to_keep": "18",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2944,8 +2410,6 @@ export const keepers = [
     price: 23,
     times_kept: 1,
     "2024_price_to_keep": "28",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2955,8 +2419,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2966,8 +2428,6 @@ export const keepers = [
     price: 18,
     times_kept: 1,
     "2024_price_to_keep": "23",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2977,8 +2437,6 @@ export const keepers = [
     price: 10,
     times_kept: 2,
     "2024_price_to_keep": "17",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2988,8 +2446,6 @@ export const keepers = [
     price: 17,
     times_kept: 1,
     "2024_price_to_keep": "22",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -2999,8 +2455,6 @@ export const keepers = [
     price: 30,
     times_kept: 1,
     "2024_price_to_keep": "35",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3010,8 +2464,6 @@ export const keepers = [
     price: 28,
     times_kept: 2,
     "2024_price_to_keep": "35",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3021,8 +2473,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3032,8 +2482,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3043,8 +2491,6 @@ export const keepers = [
     price: 10,
     times_kept: 1,
     "2024_price_to_keep": "15",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3054,8 +2500,6 @@ export const keepers = [
     price: 21,
     times_kept: 2,
     "2024_price_to_keep": "28",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3065,8 +2509,6 @@ export const keepers = [
     price: 17,
     times_kept: 1,
     "2024_price_to_keep": "22",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3076,8 +2518,6 @@ export const keepers = [
     price: 6,
     times_kept: 2,
     "2024_price_to_keep": "13",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3087,8 +2527,6 @@ export const keepers = [
     price: 13,
     times_kept: 1,
     "2024_price_to_keep": "18",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3098,8 +2536,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "12",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3109,8 +2545,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3120,8 +2554,6 @@ export const keepers = [
     price: 17,
     times_kept: 1,
     "2024_price_to_keep": "22",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3131,8 +2563,6 @@ export const keepers = [
     price: 8,
     times_kept: 1,
     "2024_price_to_keep": "13",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3142,8 +2572,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "12",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3153,8 +2581,6 @@ export const keepers = [
     price: 9,
     times_kept: 3,
     "2024_price_to_keep": "16",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3164,8 +2590,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3175,8 +2599,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3186,8 +2608,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3197,8 +2617,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3208,8 +2626,6 @@ export const keepers = [
     price: 33,
     times_kept: 1,
     "2024_price_to_keep": "38",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3219,8 +2635,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3230,8 +2644,6 @@ export const keepers = [
     price: 25,
     times_kept: 1,
     "2024_price_to_keep": "30",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3241,8 +2653,6 @@ export const keepers = [
     price: 13,
     times_kept: 2,
     "2024_price_to_keep": "20",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3252,8 +2662,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3263,8 +2671,6 @@ export const keepers = [
     price: 28,
     times_kept: 1,
     "2024_price_to_keep": "33",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3274,8 +2680,6 @@ export const keepers = [
     price: 14,
     times_kept: 1,
     "2024_price_to_keep": "19",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3285,8 +2689,6 @@ export const keepers = [
     price: 45,
     times_kept: 1,
     "2024_price_to_keep": "50",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3296,8 +2698,6 @@ export const keepers = [
     price: 22,
     times_kept: 1,
     "2024_price_to_keep": "27",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3307,8 +2707,6 @@ export const keepers = [
     price: 12,
     times_kept: 2,
     "2024_price_to_keep": "19",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3318,8 +2716,6 @@ export const keepers = [
     price: 21,
     times_kept: 1,
     "2024_price_to_keep": "26",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3329,8 +2725,6 @@ export const keepers = [
     price: 28,
     times_kept: 2,
     "2024_price_to_keep": "35",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3340,8 +2734,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3351,8 +2743,6 @@ export const keepers = [
     price: 18,
     times_kept: 1,
     "2024_price_to_keep": "23",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3362,8 +2752,6 @@ export const keepers = [
     price: 12,
     times_kept: 1,
     "2024_price_to_keep": "17",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3373,8 +2761,6 @@ export const keepers = [
     price: 44,
     times_kept: 1,
     "2024_price_to_keep": "49",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3384,8 +2770,6 @@ export const keepers = [
     price: 9,
     times_kept: 2,
     "2024_price_to_keep": "16",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3395,8 +2779,6 @@ export const keepers = [
     price: 32,
     times_kept: 1,
     "2024_price_to_keep": "37",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3406,8 +2788,6 @@ export const keepers = [
     price: 22,
     times_kept: 2,
     "2024_price_to_keep": "29",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3417,8 +2797,6 @@ export const keepers = [
     price: 6,
     times_kept: 2,
     "2024_price_to_keep": "13",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3428,8 +2806,6 @@ export const keepers = [
     price: 7,
     times_kept: 1,
     "2024_price_to_keep": "12",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3439,8 +2815,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3450,8 +2824,6 @@ export const keepers = [
     price: 14,
     times_kept: 1,
     "2024_price_to_keep": "19",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3461,8 +2833,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2023,
@@ -3472,8 +2842,6 @@ export const keepers = [
     price: 4,
     times_kept: 1,
     "2024_price_to_keep": "9",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3483,8 +2851,6 @@ export const keepers = [
     price: 16,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3494,8 +2860,6 @@ export const keepers = [
     price: 33,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3505,8 +2869,6 @@ export const keepers = [
     price: 33,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3516,8 +2878,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3527,8 +2887,6 @@ export const keepers = [
     price: 5,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3538,8 +2896,6 @@ export const keepers = [
     price: 34,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3549,8 +2905,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3560,8 +2914,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3571,8 +2923,6 @@ export const keepers = [
     price: 9,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3582,8 +2932,6 @@ export const keepers = [
     price: 59,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3593,8 +2941,6 @@ export const keepers = [
     price: 46,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3604,8 +2950,6 @@ export const keepers = [
     price: 9,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3615,8 +2959,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3626,8 +2968,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3637,8 +2977,6 @@ export const keepers = [
     price: 40,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3648,8 +2986,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3659,8 +2995,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3670,8 +3004,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3681,8 +3013,6 @@ export const keepers = [
     price: 7,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3692,8 +3022,6 @@ export const keepers = [
     price: 52,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3703,8 +3031,6 @@ export const keepers = [
     price: 17,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3714,8 +3040,6 @@ export const keepers = [
     price: 12,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3725,8 +3049,6 @@ export const keepers = [
     price: 13,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3736,8 +3058,6 @@ export const keepers = [
     price: 11,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3747,8 +3067,6 @@ export const keepers = [
     price: 18,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3758,8 +3076,6 @@ export const keepers = [
     price: 11,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3769,8 +3085,6 @@ export const keepers = [
     price: 12,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3780,8 +3094,6 @@ export const keepers = [
     price: 9,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3791,8 +3103,6 @@ export const keepers = [
     price: 22,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3802,8 +3112,6 @@ export const keepers = [
     price: 22,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3813,8 +3121,6 @@ export const keepers = [
     price: 24,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3824,8 +3130,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3835,8 +3139,6 @@ export const keepers = [
     price: 9,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3846,8 +3148,6 @@ export const keepers = [
     price: 21,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3857,8 +3157,6 @@ export const keepers = [
     price: 13,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3868,8 +3166,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3879,8 +3175,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3890,8 +3184,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3901,8 +3193,6 @@ export const keepers = [
     price: 18,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3912,8 +3202,6 @@ export const keepers = [
     price: 9,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3923,8 +3211,6 @@ export const keepers = [
     price: 20,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3934,8 +3220,6 @@ export const keepers = [
     price: 13,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3945,8 +3229,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3956,8 +3238,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3967,8 +3247,6 @@ export const keepers = [
     price: 33,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3978,8 +3256,6 @@ export const keepers = [
     price: 50,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -3989,8 +3265,6 @@ export const keepers = [
     price: 19,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4000,8 +3274,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4011,8 +3283,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4022,8 +3292,6 @@ export const keepers = [
     price: 40,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4033,8 +3301,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4044,8 +3310,6 @@ export const keepers = [
     price: 11,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4055,8 +3319,6 @@ export const keepers = [
     price: 13,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4066,8 +3328,6 @@ export const keepers = [
     price: 29,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4077,8 +3337,6 @@ export const keepers = [
     price: 27,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4088,8 +3346,6 @@ export const keepers = [
     price: 31,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4099,8 +3355,6 @@ export const keepers = [
     price: 35,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4110,8 +3364,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4121,8 +3373,6 @@ export const keepers = [
     price: 8,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4132,8 +3382,6 @@ export const keepers = [
     price: 5,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4143,8 +3391,6 @@ export const keepers = [
     price: 15,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4154,8 +3400,6 @@ export const keepers = [
     price: 13,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4165,8 +3409,6 @@ export const keepers = [
     price: 11,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4176,8 +3418,6 @@ export const keepers = [
     price: 38,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4187,8 +3427,6 @@ export const keepers = [
     price: 12,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4198,8 +3436,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4209,8 +3445,6 @@ export const keepers = [
     price: 4,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
   {
     year: 2024,
@@ -4220,7 +3454,5 @@ export const keepers = [
     price: 26,
     times_kept: null,
     "2024_price_to_keep": "",
-    FIELD8: "",
-    FIELD9: "",
   },
 ];

@@ -1,9 +1,6 @@
 export const Results = ({ players, onReset }) => {
   const date = new Date();
   const currentYear = date.getFullYear();
-  // const players = selectedTeam
-  //   ? keepers.filter((player) => player.owner === selectedTeam)
-  //   : keepers;
 
   function sortByYear(e) {
     e.preventDefault();
@@ -22,8 +19,8 @@ export const Results = ({ players, onReset }) => {
         <th>Player</th>
         <th onClick={sortByYear}>Year</th>
         <th>Owner</th>
-        <th>{currentYear - 1} Price</th>
-        <th>{currentYear} Price (est.)</th>
+        <th>Price (in Given Year)</th>
+        {/* <th>{currentYear} Price (est.)</th> */}
       </thead>
       <tbody>
         {players.map((player, i) => (
@@ -32,7 +29,7 @@ export const Results = ({ players, onReset }) => {
             <td>{player.year}</td>
             <td>{player.owner}</td>
             <td>${player.price}</td>
-            <td>${player.price + 3}</td>
+            {/* <td>${player.price + 3}</td> */}
           </tr>
         ))}
         {players.length < 1 && (

@@ -34,15 +34,40 @@ td {
 }
 
 .team-selection select {
-  margin: 5px;
+  margin: auto;
+  display: grid;
   width: 33%;
-  min-width: 120px;
   margin-left: 33%;
   margin-right: 33%;
 }
 
-/* .team-selection button {
-  width: 100px;
-  justify-content: center;
+.subheader {
+  font-style: italic;
+  width: 400px;
+  max-width: 100%;
   margin: auto;
-} */
+}
+
+.rules {
+  text-align: left;
+  width: 50%;
+  margin: auto;
+  border-style: dotted;
+  padding: 0 10px;
+  border-radius: 10px;
+  display: grid;
+}
+
+.rules div {
+  display: flex;
+  gap: 80%;
+}
+
+.rules button {
+  background-color: white;
+  height:25px;
+  border-radius: 5px;
+  border-color: gray;
+  font-size: 15px;
+  margin: auto;
+}
