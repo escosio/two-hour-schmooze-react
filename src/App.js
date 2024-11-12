@@ -15,18 +15,15 @@ const playersNames = [...new Set(keepers.map((player) => player.player_name))];
 
 export default function App() {
   const [players, setPlayers] = useState(keepers);
-  console.log(players);
+  const [team, setTeam] = useState("All");
+  const [year, setYear] = useState("All");
+  const [selectedPlayer, setSelectedPlayer] = useState("All");
 
   function filterByTeam(team) {
-    if (team == "all") {
-      setPlayers(keepers);
-    }
     setPlayers((players) => players.filter((player) => player.owner === team));
   }
 
   function filterByPlayer(playerName) {
-    if (!playerName) return;
-
     setPlayers((players) =>
       players.filter((player) => player.player_name === playerName)
     );
@@ -38,18 +35,38 @@ export default function App() {
 
   function handleReset() {
     setPlayers(keepers);
+    setTeam(() => null);
+    setYear(() => null);
+  }
+
+  function handleSearch(e) {
+    e.preventDefault();
+    setPlayers(keepers);
+    if (team != "All") {
+      filterByTeam(team);
+    }
+    if (selectedPlayer !== "All") {
+      filterByPlayer(selectedPlayer);
+    }
+    if (year !== "All") {
+      filterByYear(year);
+    }
   }
 
   return (
     <div className="App">
       <Header />
       <PlayerFilter
-        onFilterByYear={filterByYear}
-        onFilterByTeam={filterByTeam}
-        onFilterByPlayer={filterByPlayer}
-        onReset={handleReset}
         players={players}
         keepers={keepers}
+        team={team}
+        year={year}
+        selectedPlayer={selectedPlayer}
+        onSetTeam={setTeam}
+        onSetYear={setYear}
+        onSelectPlayer={setSelectedPlayer}
+        onHandleSearch={handleSearch}
+        onReset={handleReset}
       />
       <Results players={players} onReset={handleReset} />
     </div>
