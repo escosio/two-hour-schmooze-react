@@ -68,7 +68,7 @@ export default function App() {
         onHandleSearch={handleSearch}
         onReset={handleReset}
       />
-      <Results players={players} onReset={handleReset} />
+      <Results players={players} keepers={keepers} onReset={handleReset} />
     </div>
   );
 }

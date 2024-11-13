@@ -1,6 +1,8 @@
-export const Results = ({ players, onReset }) => {
+export const Results = ({ players, keepers, onReset }) => {
   const date = new Date();
   const currentYear = date.getFullYear();
+
+  // getTimesKept("Adolis García", "Scott");
 
   function sortByYear(e) {
     e.preventDefault();
@@ -8,9 +10,20 @@ export const Results = ({ players, onReset }) => {
     console.log(sortedPlayers);
   }
 
-  function calculateTimesKept(player, owner) {
-    let curYear = currentYear;
-    // check for the number of times kept
+  function getTimesKept(playerName, owner, year) {
+    // creates an array of years, if player name and owner matches
+    const yearsKeptByOwner = keepers
+      .filter(
+        (player) => player.player_name === playerName && player.owner === owner
+      )
+      .map((player) => player.year);
+    let curYear = year;
+    let timesKept = 0;
+    while (yearsKeptByOwner.includes(curYear)) {
+      timesKept += 1;
+      curYear -= 1;
+    }
+    return timesKept;
   }
 
   return (
@@ -19,8 +32,8 @@ export const Results = ({ players, onReset }) => {
         <th>Player</th>
         <th onClick={sortByYear}>Year</th>
         <th>Owner</th>
-        <th>Price (in Given Year)</th>
-        {/* <th>{currentYear} Price (est.)</th> */}
+        <th>Price</th>
+        <th>Time Kept</th>
       </thead>
       <tbody>
         {players.map((player, i) => (
@@ -29,7 +42,9 @@ export const Results = ({ players, onReset }) => {
             <td>{player.year}</td>
             <td>{player.owner}</td>
             <td>${player.price}</td>
-            {/* <td>${player.price + 3}</td> */}
+            <td>
+              {getTimesKept(player.player_name, player.owner, player.year)}
+            </td>
           </tr>
         ))}
         {players.length < 1 && (
