@@ -12,7 +12,11 @@ export const PlayerFilter = ({
   onHandleSearch,
   onReset,
 }) => {
-  const years = [2020, 2021, 2022, 2023, 2024];
+  const currentYear = new Date().getFullYear();
+  const years = Array.from(
+    { length: currentYear - 2019 },
+    (_, i) => currentYear - i
+  );
   const owners = [
     ...new Set(
       keepers.map((team) => team.owner).filter((name) => name != "Lamarr")
@@ -64,8 +68,10 @@ export const PlayerFilter = ({
           value={selectedPlayer}
           onSetFilter={onSelectPlayer}
         >
-          {playersNames.map((player) => (
-            <option value={player}>{player}</option>
+          {playersNames.map((player, i) => (
+            <option value={player} key={i}>
+              {player}
+            </option>
           ))}
         </DropDownOption>
         <button>Filter</button>
@@ -90,16 +96,12 @@ function DropDownOption({
           value={value}
           onChange={(e) => onSetFilter(Number(e.target.value))}
         >
-          <option selected value="All">
-            All
-          </option>
+          <option value="All">All</option>
           {children}
         </select>
       ) : (
         <select value={value} onChange={(e) => onSetFilter(e.target.value)}>
-          <option selected value="All">
-            All
-          </option>
+          <option value="All">All</option>
           {children}
         </select>
       )}

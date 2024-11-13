@@ -29,13 +29,15 @@ td {
 
 .team-selection {
   display: flexbox;
+  width: 33%;
+  min-width: 400px;
+  margin: auto;
   flex-direction: column;
   list-style: none;
 }
 
 .team-selection select {
-  margin: auto;
-  display: grid;
+  margin: 4px;
   width: 33%;
   margin-left: 33%;
   margin-right: 33%;
@@ -43,7 +45,7 @@ td {
 
 .subheader {
   font-style: italic;
-  width: 400px;
+  width: 500px;
   max-width: 100%;
   margin: auto;
 }

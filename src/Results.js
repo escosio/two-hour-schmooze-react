@@ -1,15 +1,4 @@
 export const Results = ({ players, keepers, onReset }) => {
-  const date = new Date();
-  const currentYear = date.getFullYear();
-
-  // getTimesKept("Adolis García", "Scott");
-
-  function sortByYear(e) {
-    e.preventDefault();
-    const sortedPlayers = players.slice().sort((a, b) => a.year - b.year);
-    console.log(sortedPlayers);
-  }
-
   function getTimesKept(playerName, owner, year) {
     // creates an array of years, if player name and owner matches
     const yearsKeptByOwner = keepers
@@ -29,11 +18,13 @@ export const Results = ({ players, keepers, onReset }) => {
   return (
     <table className="results">
       <thead>
-        <th>Player</th>
-        <th onClick={sortByYear}>Year</th>
-        <th>Owner</th>
-        <th>Price</th>
-        <th>Time Kept</th>
+        <tr>
+          <th>Player</th>
+          <th>Year</th>
+          <th>Owner</th>
+          <th>Price</th>
+          <th>Time Kept</th>
+        </tr>
       </thead>
       <tbody>
         {players.map((player, i) => (
