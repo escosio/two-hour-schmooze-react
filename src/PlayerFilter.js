@@ -74,9 +74,15 @@ export const PlayerFilter = ({
             </option>
           ))}
         </DropDownOption>
-        <button>Filter</button>
       </form>
-      <button onClick={handleReset}>Reset</button>
+      <div className="button-group">
+        <button className="btn" onClick={onHandleSearch}>
+          Filter
+        </button>
+        <button className="btn" onClick={handleReset}>
+          Reset
+        </button>
+      </div>
     </>
   );
 };
