@@ -4,6 +4,7 @@ import { keepers } from "./keeper_data";
 import { Header } from "./Header";
 import { PlayerFilter } from "./PlayerFilter";
 import { Results } from "./Results";
+import { Footer } from "./Footer";
 
 const owners = [
   ...new Set(
@@ -69,6 +70,7 @@ export default function App() {
         onReset={handleReset}
       />
       <Results players={players} keepers={keepers} onReset={handleReset} />
+      <Footer />
     </div>
   );
 }
