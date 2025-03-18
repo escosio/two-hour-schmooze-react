@@ -13,23 +13,43 @@ function Results2024({ draftResults }) {
   );
 
   return (
-    <div>
+    <div className="container">
       <h2>2024 Results</h2>
-      <div>
+      <div style={{ marginBottom: "20px" }}>
         <input
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          style={{ margin: "5px" }}
+          style={{
+            margin: "5px",
+            borderRadius: "10px",
+            padding: "10px",
+            border: "1px solid #ccc",
+            width: "300px",
+            fontSize: "16px",
+          }}
           placeholder="Enter player or team"
         />
 
         {search.length > 0 && (
           <>
-            <button onClick={() => setSearch("")}>Clear</button>
-            <p>
+            <button
+              onClick={() => setSearch("")}
+              style={{
+                marginLeft: "10px",
+                padding: "10px 15px",
+                borderRadius: "5px",
+                backgroundColor: "#007BFF",
+                color: "white",
+                border: "none",
+                cursor: "pointer",
+              }}
+            >
+              Clear
+            </button>
+            <p style={{ marginTop: "10px", fontSize: "14px", color: "#555" }}>
               {resultsToDisplay.length +
                 ` ${
-                  resultsToDisplay.length != 1
+                  resultsToDisplay.length !== 1
                     ? "results were found"
                     : "result was found"
                 }`}
