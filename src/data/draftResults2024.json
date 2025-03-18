@@ -1,0 +1,1934 @@
+[
+  {
+    "name": "Trea Turner",
+    "pos": "PHI - SS",
+    "price": "$41",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Ozzie Albies",
+    "pos": "ATL - 2B",
+    "price": "$36",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Matt Olson",
+    "pos": "ATL - 1B",
+    "price": "$44",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Francisco Lindor",
+    "pos": "NYM - SS",
+    "price": "$26",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "José Ramírez",
+    "pos": "CLE - 3B",
+    "price": "$49",
+    "team": "Melkman"
+  },
+  {
+    "name": "Rafael Devers",
+    "pos": "BOS - 3B",
+    "price": "$51",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Dylan Cease",
+    "pos": "SD - SP",
+    "price": "$22",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Bo Bichette",
+    "pos": "TOR - SS",
+    "price": "$24",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Josh Hader",
+    "pos": "HOU - RP",
+    "price": "$21",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Joe Musgrove",
+    "pos": "SD - SP",
+    "price": "$25",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Yoshinobu Yamamoto",
+    "pos": "LAD - SP",
+    "price": "$56",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Randy Arozarena",
+    "pos": "SEA - OF",
+    "price": "$36",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Bryce Harper",
+    "pos": "PHI - 1B",
+    "price": "$46",
+    "team": "Melkman"
+  },
+  {
+    "name": "Chris Sale",
+    "pos": "ATL - SP",
+    "price": "$18",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Vladimir Guerrero Jr.",
+    "pos": "TOR - 1B,3B",
+    "price": "$45",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Manny Machado",
+    "pos": "SD - 3B",
+    "price": "$43",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Marcus Semien",
+    "pos": "TEX - 2B",
+    "price": "$38",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Gleyber Torres",
+    "pos": "DET - 2B",
+    "price": "$28",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Jose Altuve",
+    "pos": "HOU - 2B",
+    "price": "$24",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Christian Yelich",
+    "pos": "MIL - OF",
+    "price": "$19",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Chris Bassitt",
+    "pos": "TOR - SP",
+    "price": "$15",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Kevin Gausman",
+    "pos": "TOR - SP",
+    "price": "$32",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Tyler Glasnow",
+    "pos": "LAD - SP",
+    "price": "$26",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Tarik Skubal",
+    "pos": "DET - SP",
+    "price": "$23",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Aaron Nola",
+    "pos": "PHI - SP",
+    "price": "$21",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "William Contreras",
+    "pos": "MIL - C",
+    "price": "$17",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Evan Carter",
+    "pos": "TEX - OF",
+    "price": "$17",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Paul Goldschmidt",
+    "pos": "NYY - 1B",
+    "price": "$28",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Will Smith",
+    "pos": "LAD - C",
+    "price": "$18",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Spencer Torkelson",
+    "pos": "DET - 1B",
+    "price": "$20",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Edwin Díaz",
+    "pos": "NYM - RP",
+    "price": "$17",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Camilo Doval",
+    "pos": "SF - RP",
+    "price": "$17",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Royce Lewis",
+    "pos": "MIN - 3B",
+    "price": "$18",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Salvador Perez",
+    "pos": "KC - C,1B",
+    "price": "$14",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Craig Kimbrel",
+    "pos": "BAL - RP",
+    "price": "$11",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Alex Bregman",
+    "pos": "BOS - 3B",
+    "price": "$18",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Grayson Rodriguez",
+    "pos": "BAL - SP",
+    "price": "$16",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Nico Hoerner",
+    "pos": "CHC - 2B,SS",
+    "price": "$24",
+    "team": "Melkman"
+  },
+  {
+    "name": "Zach Eflin",
+    "pos": "BAL - SP",
+    "price": "$18",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Nestor Cortes",
+    "pos": "MIL - SP",
+    "price": "$7",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Mike Trout",
+    "pos": "LAA - OF",
+    "price": "$37",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Emmanuel Clase",
+    "pos": "CLE - RP",
+    "price": "$21",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Logan Gilbert",
+    "pos": "SEA - SP",
+    "price": "$20",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Anthony Santander",
+    "pos": "TOR - OF",
+    "price": "$20",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Bobby Miller",
+    "pos": "LAD - SP",
+    "price": "$14",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Gerrit Cole",
+    "pos": "NYY - SP",
+    "price": "$7",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Joe Ryan",
+    "pos": "MIN - SP",
+    "price": "$15",
+    "team": "Melkman"
+  },
+  {
+    "name": "Sean Murphy",
+    "pos": "ATL - C",
+    "price": "$10",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Steven Kwan",
+    "pos": "CLE - OF",
+    "price": "$7",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Nolan Arenado",
+    "pos": "STL - 3B",
+    "price": "$23",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Raisel Iglesias",
+    "pos": "ATL - RP",
+    "price": "$15",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Erik Swanson",
+    "pos": "TOR - RP",
+    "price": "$7",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Cedric Mullins",
+    "pos": "BAL - OF",
+    "price": "$13",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "DJ LeMahieu",
+    "pos": "NYY - 1B,3B",
+    "price": "$6",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Zack Gelof",
+    "pos": "ATH - 2B",
+    "price": "$10",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Nick Castellanos",
+    "pos": "PHI - OF",
+    "price": "$15",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Kyle Schwarber",
+    "pos": "PHI - OF",
+    "price": "$28",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Willy Adames",
+    "pos": "SF - SS",
+    "price": "$13",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Jordan Romano",
+    "pos": "PHI - RP",
+    "price": "$17",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Carlos Rodón",
+    "pos": "NYY - SP",
+    "price": "$6",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Blake Snell",
+    "pos": "LAD - SP",
+    "price": "$25",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Paul Sewald",
+    "pos": "CLE - RP",
+    "price": "$11",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Alex Verdugo",
+    "pos": "NYY - OF",
+    "price": "$5",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Cole Ragans",
+    "pos": "KC - SP",
+    "price": "$10",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Jonathan India",
+    "pos": "KC - 2B",
+    "price": "$7",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Bryan Abreu",
+    "pos": "HOU - RP",
+    "price": "$7",
+    "team": "Melkman"
+  },
+  {
+    "name": "Jarren Duran",
+    "pos": "BOS - OF",
+    "price": "$16",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "--empty--",
+    "pos": "- ",
+    "price": "$3",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Thairo Estrada",
+    "pos": "COL - 2B",
+    "price": "$6",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "George Springer",
+    "pos": "TOR - OF",
+    "price": "$19",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Bryan Reynolds",
+    "pos": "PIT - OF",
+    "price": "$18",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Teoscar Hernández",
+    "pos": "LAD - OF",
+    "price": "$19",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Andrés Muñoz",
+    "pos": "SEA - RP",
+    "price": "$9",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Giancarlo Stanton",
+    "pos": "NYY - OF",
+    "price": "$5",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Seiya Suzuki",
+    "pos": "CHC - OF",
+    "price": "$15",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Justin Steele",
+    "pos": "CHC - SP",
+    "price": "$22",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Anthony Rizzo",
+    "pos": "NYY - 1B",
+    "price": "$8",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "David Bednar",
+    "pos": "PIT - RP",
+    "price": "$12",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Ryan Pressly",
+    "pos": "CHC - RP",
+    "price": "$10",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Spencer Steer",
+    "pos": "CIN - 1B,OF",
+    "price": "$21",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Jung Hoo Lee",
+    "pos": "SF - OF",
+    "price": "$8",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Alexis Díaz",
+    "pos": "CIN - RP",
+    "price": "$17",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Nolan Gorman",
+    "pos": "STL - 2B",
+    "price": "$16",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Dansby Swanson",
+    "pos": "CHC - SS",
+    "price": "$17",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Ezequiel Tovar",
+    "pos": "COL - SS",
+    "price": "$6",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Christian Encarnacion-Strand",
+    "pos": "CIN - 1B",
+    "price": "$17",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Josh Jung",
+    "pos": "TEX - 3B",
+    "price": "$13",
+    "team": "Melkman"
+  },
+  {
+    "name": "Clay Holmes",
+    "pos": "NYM - RP",
+    "price": "$10",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Ryan Helsley",
+    "pos": "STL - RP",
+    "price": "$20",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Jackson Chourio",
+    "pos": "MIL - OF",
+    "price": "$15",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Brett Baty",
+    "pos": "NYM - 3B",
+    "price": "$2",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Alec Bohm",
+    "pos": "PHI - 1B,3B",
+    "price": "$10",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Kyle Bradish",
+    "pos": "BAL - SP",
+    "price": "$7",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Yandy Díaz",
+    "pos": "TB - 1B",
+    "price": "$10",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Maikel Garcia",
+    "pos": "KC - 2B,3B",
+    "price": "$7",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Bryson Stott",
+    "pos": "PHI - 2B,SS",
+    "price": "$9",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Tanner Scott",
+    "pos": "LAD - RP",
+    "price": "$15",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Shane Bieber",
+    "pos": "CLE - SP",
+    "price": "$9",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Carlos Correa",
+    "pos": "MIN - SS",
+    "price": "$11",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Jeimer Candelario",
+    "pos": "CIN - 1B,3B",
+    "price": "$10",
+    "team": "Melkman"
+  },
+  {
+    "name": "Wyatt Langford",
+    "pos": "TEX - OF",
+    "price": "$18",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Riley Greene",
+    "pos": "DET - OF",
+    "price": "$9",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Devin Williams",
+    "pos": "NYY - RP",
+    "price": "$5",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Tanner Bibee",
+    "pos": "CLE - SP",
+    "price": "$12",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "--empty--",
+    "pos": "- ",
+    "price": "$6",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Hunter Greene",
+    "pos": "CIN - SP",
+    "price": "$11",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "TJ Friedl",
+    "pos": "CIN - OF",
+    "price": "$9",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Isaac Paredes",
+    "pos": "HOU - 1B,3B",
+    "price": "$16",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Kodai Senga",
+    "pos": "NYM - SP",
+    "price": "$10",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "José Berríos",
+    "pos": "TOR - SP",
+    "price": "$8",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Cal Raleigh",
+    "pos": "SEA - C",
+    "price": "$12",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Kenley Jansen",
+    "pos": "LAA - RP",
+    "price": "$6",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Bailey Ober",
+    "pos": "MIN - SP",
+    "price": "$11",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Eloy Jiménez",
+    "pos": "TB - OF",
+    "price": "$10",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Ian Happ",
+    "pos": "CHC - OF",
+    "price": "$8",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Justin Turner",
+    "pos": "CHC - 1B",
+    "price": "$7",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Yu Darvish",
+    "pos": "SD - SP",
+    "price": "$9",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Willson Contreras",
+    "pos": "STL - C",
+    "price": "$2",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Starling Marte",
+    "pos": "NYM - OF",
+    "price": "$4",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Jake Burger",
+    "pos": "TEX - 1B,3B",
+    "price": "$6",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Anthony Rendon",
+    "pos": "LAA - 3B",
+    "price": "$2",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Mitch Keller",
+    "pos": "PIT - SP",
+    "price": "$15",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Jose Quintana",
+    "pos": "MIL - SP",
+    "price": "$3",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "James Outman",
+    "pos": "LAD - OF",
+    "price": "$11",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Kyle Gibson",
+    "pos": "STL - SP",
+    "price": "$3",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "A.J. Minter",
+    "pos": "NYM - RP",
+    "price": "$7",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Jordan Montgomery",
+    "pos": "AZ - SP",
+    "price": "$7",
+    "team": "Melkman"
+  },
+  {
+    "name": "Tyler O'Neill",
+    "pos": "BAL - OF",
+    "price": "$11",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Jorge Soler",
+    "pos": "LAA - OF",
+    "price": "$8",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Trevor Story",
+    "pos": "BOS - SS",
+    "price": "$4",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "--empty--",
+    "pos": "- ",
+    "price": "$9",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Bryan Woo",
+    "pos": "SEA - SP",
+    "price": "$4",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Jon Berti",
+    "pos": "CHC - 3B",
+    "price": "$2",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Vinnie Pasquantino",
+    "pos": "KC - 1B",
+    "price": "$7",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Chas McCormick",
+    "pos": "HOU - OF",
+    "price": "$9",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Eduardo Rodriguez",
+    "pos": "AZ - SP",
+    "price": "$8",
+    "team": "Melkman"
+  },
+  {
+    "name": "Shota Imanaga",
+    "pos": "CHC - SP",
+    "price": "$9",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Chris Taylor",
+    "pos": "LAD - 2B,3B,OF",
+    "price": "$3",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Kyle Harrison",
+    "pos": "SF - SP",
+    "price": "$4",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Yennier Cano",
+    "pos": "BAL - RP",
+    "price": "$8",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Triston McKenzie",
+    "pos": "CLE - SP",
+    "price": "$4",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Daulton Varsho",
+    "pos": "TOR - OF",
+    "price": "$5",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Mason Miller",
+    "pos": "ATH - RP",
+    "price": "$3",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Héctor Neris",
+    "pos": "ATL - RP",
+    "price": "$6",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Ryan Pepiot",
+    "pos": "TB - SP",
+    "price": "$4",
+    "team": "Melkman"
+  },
+  {
+    "name": "Marcus Stroman",
+    "pos": "NYY - SP",
+    "price": "$6",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Christopher Morel",
+    "pos": "TB - 2B,3B,OF",
+    "price": "$7",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Max Muncy",
+    "pos": "LAD - 3B",
+    "price": "$14",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Junior Caminero",
+    "pos": "TB - 3B",
+    "price": "$3",
+    "team": "Melkman"
+  },
+  {
+    "name": "Brice Turang",
+    "pos": "MIL - 2B",
+    "price": "$1",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Rhys Hoskins",
+    "pos": "MIL - 1B",
+    "price": "$4",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Nick Pivetta",
+    "pos": "SD - SP",
+    "price": "$5",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Charlie Morton",
+    "pos": "BAL - SP",
+    "price": "$4",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Tommy Edman",
+    "pos": "LAD - SS,OF",
+    "price": "$5",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Nathaniel Lowe",
+    "pos": "WSH - 1B",
+    "price": "$2",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "José Alvarado",
+    "pos": "PHI - RP",
+    "price": "$3",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Jorge Polanco",
+    "pos": "SEA - 2B",
+    "price": "$6",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Masataka Yoshida",
+    "pos": "BOS - OF",
+    "price": "$6",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Lance Lynn",
+    "pos": "STL - SP",
+    "price": "$1",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Justin Verlander",
+    "pos": "SF - SP",
+    "price": "$3",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Kerry Carpenter",
+    "pos": "DET - OF",
+    "price": "$3",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "MacKenzie Gore",
+    "pos": "WSH - SP",
+    "price": "$3",
+    "team": "Melkman"
+  },
+  {
+    "name": "--empty--",
+    "pos": "- ",
+    "price": "$2",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Walker Buehler",
+    "pos": "BOS - SP",
+    "price": "$7",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Ryan McMahon",
+    "pos": "COL - 3B",
+    "price": "$3",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Andrew Vaughn",
+    "pos": "CWS - 1B",
+    "price": "$2",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Hunter Brown",
+    "pos": "HOU - SP",
+    "price": "$5",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "--empty--",
+    "pos": "- ",
+    "price": "$3",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Gabriel Moreno",
+    "pos": "AZ - C",
+    "price": "$2",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Kris Bryant",
+    "pos": "COL - 1B,OF",
+    "price": "$4",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Logan O'Hoppe",
+    "pos": "LAA - C",
+    "price": "$5",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Ke'Bryan Hayes",
+    "pos": "PIT - 3B",
+    "price": "$4",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Jason Adam",
+    "pos": "SD - RP",
+    "price": "$5",
+    "team": "Melkman"
+  },
+  {
+    "name": "--empty--",
+    "pos": "- ",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Kyle Finnegan",
+    "pos": "WSH - RP",
+    "price": "$3",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Byron Buxton",
+    "pos": "MIN - OF",
+    "price": "$1",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Ryan Mountcastle",
+    "pos": "BAL - 1B",
+    "price": "$2",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Gavin Williams",
+    "pos": "CLE - SP",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Hunter Harvey",
+    "pos": "KC - RP",
+    "price": "$1",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Keibert Ruiz",
+    "pos": "WSH - C",
+    "price": "$4",
+    "team": "Melkman"
+  },
+  {
+    "name": "Nathan Eovaldi",
+    "pos": "TEX - SP",
+    "price": "$4",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Braxton Garrett",
+    "pos": "MIA - SP",
+    "price": "$3",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Jeremy Peña",
+    "pos": "HOU - SS",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Kenta Maeda",
+    "pos": "DET - SP,RP",
+    "price": "$1",
+    "team": "Melkman"
+  },
+  {
+    "name": "Bryce Elder",
+    "pos": "ATL - SP",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "--empty--",
+    "pos": "- ",
+    "price": "$3",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Elias Díaz",
+    "pos": "SD - C",
+    "price": "$1",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Robert Stephenson",
+    "pos": "LAA - RP",
+    "price": "$2",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Bryce Miller",
+    "pos": "SEA - SP",
+    "price": "$2",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Edouard Julien",
+    "pos": "MIN - 2B",
+    "price": "$2",
+    "team": "Melkman"
+  },
+  {
+    "name": "MJ Melendez",
+    "pos": "KC - OF",
+    "price": "$5",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Lourdes Gurriel Jr.",
+    "pos": "AZ - OF",
+    "price": "$1",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Jack Suwinski",
+    "pos": "PIT - OF",
+    "price": "$3",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Brandon Pfaadt",
+    "pos": "AZ - SP",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Luis Rengifo",
+    "pos": "LAA - 2B,3B",
+    "price": "$1",
+    "team": "Melkman"
+  },
+  {
+    "name": "Mitch Garver",
+    "pos": "SEA - C",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "José Leclerc",
+    "pos": "ATH - RP",
+    "price": "$3",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Carlos Estévez",
+    "pos": "KC - RP",
+    "price": "$1",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Paul Skenes",
+    "pos": "PIT - SP",
+    "price": "$4",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Eugenio Suárez",
+    "pos": "AZ - 3B",
+    "price": "$3",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "J.D. Martinez",
+    "pos": "NYM - Util",
+    "price": "$1",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "David Robertson",
+    "pos": "TEX - RP",
+    "price": "$1",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Aroldis Chapman",
+    "pos": "BOS - RP",
+    "price": "$1",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Lars Nootbaar",
+    "pos": "STL - OF",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Joel Payamps",
+    "pos": "MIL - RP",
+    "price": "$1",
+    "team": "Melkman"
+  },
+  {
+    "name": "Robert Suarez",
+    "pos": "SD - RP",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Brandon Lowe",
+    "pos": "TB - 1B,2B",
+    "price": "$1",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Scott Barlow",
+    "pos": "CIN - RP",
+    "price": "$1",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Jasson Domínguez",
+    "pos": "NYY - OF",
+    "price": "$2",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Samuel Basallo",
+    "pos": "BAL - C,1B",
+    "price": "$1",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Brayan Bello",
+    "pos": "BOS - SP",
+    "price": "$2",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Chris Martin",
+    "pos": "TEX - RP",
+    "price": "$1",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Matt Chapman",
+    "pos": "SF - 3B",
+    "price": "$2",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Chase Silseth",
+    "pos": "LAA - SP",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Jorge López",
+    "pos": "WSH - RP",
+    "price": "$1",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Nolan Schanuel",
+    "pos": "LAA - 1B",
+    "price": "$1",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "J.P. Crawford",
+    "pos": "SEA - SS",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Alex Lange",
+    "pos": "DET - RP",
+    "price": "$1",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Sean Manaea",
+    "pos": "NYM - SP",
+    "price": "$1",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Reid Detmers",
+    "pos": "LAA - SP",
+    "price": "$1",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Aaron Civale",
+    "pos": "MIL - SP",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Martín Pérez",
+    "pos": "CWS - SP",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Jose Siri",
+    "pos": "NYM - OF",
+    "price": "$1",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Abner Uribe",
+    "pos": "MIL - RP",
+    "price": "$1",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Nick Lodolo",
+    "pos": "CIN - SP",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Colt Keith",
+    "pos": "DET - 2B",
+    "price": "$1",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Gio Urshela",
+    "pos": "ATH - 1B,3B",
+    "price": "$2",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Henry Davis",
+    "pos": "PIT - C",
+    "price": "$1",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Kutter Crawford",
+    "pos": "BOS - SP",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "--empty--",
+    "pos": "- ",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Jordan Hicks",
+    "pos": "SF - SP,RP",
+    "price": "$1",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Kevin Ginkel",
+    "pos": "AZ - RP",
+    "price": "$1",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Emmet Sheehan",
+    "pos": "LAD - SP",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Jackson Jobe",
+    "pos": "DET - RP",
+    "price": "$1",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Brusdar Graterol",
+    "pos": "LAD - RP",
+    "price": "$3",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Cristopher Sánchez",
+    "pos": "PHI - SP",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Louis Varland",
+    "pos": "MIN - SP,RP",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Luis Campusano",
+    "pos": "SD - C",
+    "price": "$1",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Griffin Canning",
+    "pos": "NYM - SP",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Michael Busch",
+    "pos": "CHC - 1B",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "--empty--",
+    "pos": "- ",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Colin Poche",
+    "pos": "WSH - RP",
+    "price": "$1",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Jarred Kelenic",
+    "pos": "ATL - OF",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Taylor Ward",
+    "pos": "LAA - OF",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Gavin Lux",
+    "pos": "CIN - 2B",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Chad Green",
+    "pos": "TOR - RP",
+    "price": "$1",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Jose Abreu",
+    "pos": "- ",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Bo Naylor",
+    "pos": "CLE - C",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Willi Castro",
+    "pos": "MIN - 2B,3B,SS,OF",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Max Kepler",
+    "pos": "PHI - OF",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Vaughn Grissom",
+    "pos": "BOS - 2B",
+    "price": "$1",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "José Caballero",
+    "pos": "TB - 2B,3B,SS",
+    "price": "$1",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Andrew Abbott",
+    "pos": "CIN - SP",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Taj Bradley",
+    "pos": "TB - SP",
+    "price": "$1",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Pete Fairbanks",
+    "pos": "TB - RP",
+    "price": "$11",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Jhoan Duran",
+    "pos": "MIN - RP",
+    "price": "$13",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Ketel Marte",
+    "pos": "AZ - 2B",
+    "price": "$12",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Austin Riley",
+    "pos": "ATL - 3B",
+    "price": "$17",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Ronald Acuña Jr.",
+    "pos": "ATL - OF",
+    "price": "$52",
+    "team": "Dog Days Denizens"
+  },
+  {
+    "name": "Jesús Luzardo",
+    "pos": "PHI - SP",
+    "price": "$11",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Freddy Peralta",
+    "pos": "MIL - SP",
+    "price": "$13",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Logan Webb",
+    "pos": "SF - SP",
+    "price": "$15",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Luis Arraez",
+    "pos": "SD - 1B,2B",
+    "price": "$5",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Josh Naylor",
+    "pos": "AZ - 1B",
+    "price": "$8",
+    "team": "The Eurasian Sens..."
+  },
+  {
+    "name": "Esteury Ruiz",
+    "pos": "ATH - OF",
+    "price": "$4",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Matt McLain",
+    "pos": "CIN - 2B,SS",
+    "price": "$4",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Yordan Alvarez",
+    "pos": "HOU - OF",
+    "price": "$19",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Freddie Freeman",
+    "pos": "LAD - 1B",
+    "price": "$50",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Bobby Witt Jr.",
+    "pos": "KC - SS",
+    "price": "$33",
+    "team": "Normentino's Ninos"
+  },
+  {
+    "name": "Sonny Gray",
+    "pos": "STL - SP",
+    "price": "$5",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Eury Pérez",
+    "pos": "MIA - SP",
+    "price": "$4",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Max Fried",
+    "pos": "NYY - SP",
+    "price": "$33",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Luis Castillo",
+    "pos": "SEA - SP",
+    "price": "$33",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Adolis García",
+    "pos": "TEX - OF",
+    "price": "$16",
+    "team": "Meet me at Stan's"
+  },
+  {
+    "name": "Pablo López",
+    "pos": "MIN - SP",
+    "price": "$7",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Yainer Diaz",
+    "pos": "HOU - C,1B",
+    "price": "$4",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Elly De La Cruz",
+    "pos": "CIN - SS",
+    "price": "$4",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Michael Harris II",
+    "pos": "ATL - OF",
+    "price": "$4",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Fernando Tatis Jr.",
+    "pos": "SD - OF",
+    "price": "$40",
+    "team": "Dan's Fancy Boys"
+  },
+  {
+    "name": "Zac Gallen",
+    "pos": "AZ - SP",
+    "price": "$18",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Ha-Seong Kim",
+    "pos": "TB - SS",
+    "price": "$4",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Josh Lowe",
+    "pos": "TB - OF",
+    "price": "$4",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Nolan Jones",
+    "pos": "COL - OF",
+    "price": "$4",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Shohei Ohtani",
+    "pos": "Batter",
+    "price": "$13",
+    "team": "JC Rubber Arms"
+  },
+  {
+    "name": "Framber Valdez",
+    "pos": "HOU - SP",
+    "price": "$26",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Anthony Volpe",
+    "pos": "NYY - SS",
+    "price": "$4",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Lane Thomas",
+    "pos": "CLE - OF",
+    "price": "$4",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Jazz Chisholm Jr.",
+    "pos": "NYY - 3B,OF",
+    "price": "$12",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Aaron Judge",
+    "pos": "NYY - OF",
+    "price": "$38",
+    "team": "Wayne's Dream Team"
+  },
+  {
+    "name": "Merrill Kelly",
+    "pos": "AZ - SP",
+    "price": "$4",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Corbin Burnes",
+    "pos": "AZ - SP",
+    "price": "$35",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Xander Bogaerts",
+    "pos": "SD - 2B,SS",
+    "price": "$31",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "J.T. Realmuto",
+    "pos": "PHI - C",
+    "price": "$27",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Gunnar Henderson",
+    "pos": "BAL - SS",
+    "price": "$29",
+    "team": "Lovullo Is Blind"
+  },
+  {
+    "name": "Cristian Javier",
+    "pos": "HOU - SP",
+    "price": "$9",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Michael King",
+    "pos": "SD - SP",
+    "price": "$4",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Marcell Ozuna",
+    "pos": "ATL - OF",
+    "price": "$4",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Corey Seager",
+    "pos": "TEX - SS",
+    "price": "$34",
+    "team": "Boat Lords"
+  },
+  {
+    "name": "Spencer Strider",
+    "pos": "ATL - SP",
+    "price": "$4",
+    "team": "Melkman"
+  },
+  {
+    "name": "Jackson Holliday",
+    "pos": "BAL - 2B",
+    "price": "$4",
+    "team": "Melkman"
+  },
+  {
+    "name": "Jordan Walker",
+    "pos": "STL - OF",
+    "price": "$13",
+    "team": "Melkman"
+  },
+  {
+    "name": "Kyle Tucker",
+    "pos": "CHC - OF",
+    "price": "$20",
+    "team": "Melkman"
+  },
+  {
+    "name": "Corbin Carroll",
+    "pos": "AZ - OF",
+    "price": "$9",
+    "team": "Melkman"
+  },
+  {
+    "name": "George Kirby",
+    "pos": "SEA - SP",
+    "price": "$21",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Oneil Cruz",
+    "pos": "PIT - SS,OF",
+    "price": "$9",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "CJ Abrams",
+    "pos": "WSH - SS",
+    "price": "$4",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Luis Robert Jr.",
+    "pos": "CWS - OF",
+    "price": "$24",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Julio Rodríguez",
+    "pos": "SEA - OF",
+    "price": "$22",
+    "team": "IfILoseIBlameScott"
+  },
+  {
+    "name": "Evan Phillips",
+    "pos": "LAD - RP",
+    "price": "$4",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Jonah Heim",
+    "pos": "TEX - C",
+    "price": "$4",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Triston Casas",
+    "pos": "BOS - 1B",
+    "price": "$9",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Juan Soto",
+    "pos": "NYM - OF",
+    "price": "$46",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Mookie Betts",
+    "pos": "LAD - 2B,SS,OF",
+    "price": "$59",
+    "team": "Bring back Mookie"
+  },
+  {
+    "name": "Jeff McNeil",
+    "pos": "NYM - 2B,OF",
+    "price": "$13",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Brandon Nimmo",
+    "pos": "NYM - OF",
+    "price": "$11",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Francisco Alvarez",
+    "pos": "NYM - C",
+    "price": "$4",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Pete Alonso",
+    "pos": "NYM - 1B",
+    "price": "$40",
+    "team": "Ron's Darlings"
+  },
+  {
+    "name": "Zack Wheeler",
+    "pos": "PHI - SP",
+    "price": "$22",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Andrés Giménez",
+    "pos": "TOR - 2B",
+    "price": "$9",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Christian Walker",
+    "pos": "HOU - 1B",
+    "price": "$12",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Cody Bellinger",
+    "pos": "NYY - 1B,OF",
+    "price": "$11",
+    "team": "Green Monster"
+  },
+  {
+    "name": "Adley Rutschman",
+    "pos": "BAL - C",
+    "price": "$18",
+    "team": "Green Monster"
+  }
+]

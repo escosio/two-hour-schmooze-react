@@ -39,9 +39,6 @@ export const Results = ({ players, keepers, onReset }) => {
           </tr>
         ))}
         {players.length < 1 && (
-          // <button className="clear-filter" onClick={onReset}>
-          //   Clear filters
-          // </button>
           <div className="clear-filter">
             <p>No results {`:(`}</p>
             <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJoM3FsbmtrcWd2ZnhqdHhraGh4OHM1dHBxZ2xsZ2FweG44NmhvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oh71iAPsEGIh56oue/giphy.gif" />

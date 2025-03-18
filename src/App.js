@@ -1,10 +1,12 @@
 import "./styles.css";
 import { useState } from "react";
-import { keepers } from "./keeper_data";
+import { keepers } from "./data/keeper_data";
 import { Header } from "./Header";
 import { PlayerFilter } from "./PlayerFilter";
 import { Results } from "./Results";
 import { Footer } from "./Footer";
+import Results2024 from "./Results2024";
+import draft2024data from "./data/draftResults2024.json";
 
 const owners = [
   ...new Set(
@@ -19,6 +21,7 @@ export default function App() {
   const [team, setTeam] = useState("All");
   const [year, setYear] = useState("All");
   const [selectedPlayer, setSelectedPlayer] = useState("All");
+  const [showSearch, setShowSearch] = useState(false);
 
   function filterByTeam(team) {
     setPlayers((players) => players.filter((player) => player.owner === team));
@@ -57,6 +60,23 @@ export default function App() {
   return (
     <div className="App">
       <Header />
+      {showSearch ? (
+        <>
+          <button className="btn" onClick={() => setShowSearch(!showSearch)}>
+            Hide draft results
+          </button>
+          <Results2024 draftResults={draft2024data} />
+        </>
+      ) : (
+        <button
+          className="btn"
+          onClick={() => setShowSearch(!showSearch)}
+          style={{ marginTop: "20px" }}
+        >
+          Want to search last year's draft results?
+        </button>
+      )}
+
       <PlayerFilter
         players={players}
         keepers={keepers}
