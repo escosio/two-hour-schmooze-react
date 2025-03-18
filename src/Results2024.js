@@ -20,6 +20,7 @@ function Results2024({ draftResults }) {
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           style={{ margin: "5px" }}
+          placeholder="Enter player or team"
         />
         {search.length > 0 && (
           <button onClick={() => setSearch("")}>Clear</button>
