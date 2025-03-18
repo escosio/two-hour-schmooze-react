@@ -6,8 +6,10 @@ function Results2024({ draftResults }) {
   draftResults = draftResults.filter(
     (player) => !player.name.includes("empty")
   );
-  const resultsToDisplay = draftResults.filter((player) =>
-    player.name.toLowerCase().includes(search.toLowerCase())
+  const resultsToDisplay = draftResults.filter(
+    (player) =>
+      player.name.toLowerCase().includes(search.toLowerCase()) ||
+      player.team.toLowerCase().includes(search.toLowerCase())
   );
 
   return (
