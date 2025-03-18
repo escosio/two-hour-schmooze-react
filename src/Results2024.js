@@ -22,8 +22,19 @@ function Results2024({ draftResults }) {
           style={{ margin: "5px" }}
           placeholder="Enter player or team"
         />
+
         {search.length > 0 && (
-          <button onClick={() => setSearch("")}>Clear</button>
+          <>
+            <button onClick={() => setSearch("")}>Clear</button>
+            <p>
+              {resultsToDisplay.length +
+                ` ${
+                  resultsToDisplay.length != 1
+                    ? "results were found"
+                    : "result was found"
+                }`}
+            </p>
+          </>
         )}
       </div>
       <table className="results">
