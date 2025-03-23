@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { TableHeader } from "./data/components/TableHeaders";
 
 function Results2024({ draftResults }) {
   const [search, setSearch] = useState("");
@@ -14,7 +15,6 @@ function Results2024({ draftResults }) {
 
   return (
     <div className="container">
-      <h2>2024 Results</h2>
       <div style={{ marginBottom: "20px" }}>
         <input
           value={search}
@@ -29,6 +29,7 @@ function Results2024({ draftResults }) {
           }}
           placeholder="Enter player or team"
         />
+        <h2>2024 Results</h2>
 
         {search.length > 0 && (
           <>
@@ -58,13 +59,7 @@ function Results2024({ draftResults }) {
         )}
       </div>
       <table className="results">
-        <thead>
-          <tr>
-            <th>Player</th>
-            <th>Price</th>
-            <th>Team</th>
-          </tr>
-        </thead>
+        <TableHeader headerArray={["Player", "Price", "Team"]} />
         <tbody>
           {!resultsToDisplay.length && "Enter a player name"}
           {resultsToDisplay.map((player) => (

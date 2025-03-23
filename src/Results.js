@@ -1,3 +1,5 @@
+import { TableHeader } from "./data/components/TableHeaders";
+
 export const Results = ({ players, keepers, onReset }) => {
   function getTimesKept(playerName, owner, year) {
     // creates an array of years, if player name and owner matches
@@ -14,18 +16,11 @@ export const Results = ({ players, keepers, onReset }) => {
     }
     return timesKept;
   }
+  const tableHeaders = ["Player", "Year", "Owner", "Price", "Time Kept"];
 
   return (
     <table className="results">
-      <thead>
-        <tr>
-          <th>Player</th>
-          <th>Year</th>
-          <th>Owner</th>
-          <th>Price</th>
-          <th>Time Kept</th>
-        </tr>
-      </thead>
+      <TableHeader headerArray={tableHeaders} />
       <tbody>
         {players.map((player, i) => (
           <tr key={i}>
