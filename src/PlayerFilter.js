@@ -83,6 +83,7 @@ export const PlayerFilter = ({
           Reset
         </button>
       </div>
+      <i>Note: Troy sux</i>
     </>
   );
 };
@@ -97,20 +98,22 @@ function DropDownOption({
   return (
     <li>
       <label>Select a {filterName}</label>
-      {isNumber ? (
-        <select
-          value={value}
-          onChange={(e) => onSetFilter(Number(e.target.value))}
-        >
-          <option value="All">All</option>
-          {children}
-        </select>
-      ) : (
-        <select value={value} onChange={(e) => onSetFilter(e.target.value)}>
-          <option value="All">All</option>
-          {children}
-        </select>
-      )}
+      <div style={{ margin: "8px 12px" }}>
+        {isNumber ? (
+          <select
+            value={value}
+            onChange={(e) => onSetFilter(Number(e.target.value))}
+          >
+            <option value="All">All</option>
+            {children}
+          </select>
+        ) : (
+          <select value={value} onChange={(e) => onSetFilter(e.target.value)}>
+            <option value="All">All</option>
+            {children}
+          </select>
+        )}
+      </div>
     </li>
   );
 }

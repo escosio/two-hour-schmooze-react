@@ -1,5 +1,10 @@
 import { TableHeader } from "./data/components/TableHeaders";
 
+/**
+ * Historical keeper results for previous years
+ * @param {*} param0
+ * @returns
+ */
 export const Results = ({ players, keepers, onReset }) => {
   function getTimesKept(playerName, owner, year) {
     // creates an array of years, if player name and owner matches
