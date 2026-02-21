@@ -1,7 +1,16 @@
-import React from "react";
+import React, { useState } from "react";
 import keeperValues from "./data/keeperValues2026.json";
 
 function KeeperValues2026() {
+  const [selectedOwner, setSelectedOwner] = useState("All");
+
+  const owners = ["All", ...keeperValues.teams.map((team) => team.owner)];
+
+  const filteredTeams =
+    selectedOwner === "All"
+      ? keeperValues.teams
+      : keeperValues.teams.filter((team) => team.owner === selectedOwner);
+
   return (
     <div className="keeper-values-container">
       <h2>2026 Keeper Values</h2>
@@ -9,7 +18,23 @@ function KeeperValues2026() {
         All player keeper eligibility and pricing for the 2026 season
       </p>
 
-      {keeperValues.teams.map((team, index) => (
+      <div className="filter-section">
+        <label htmlFor="owner-filter">Filter by Owner: </label>
+        <select
+          id="owner-filter"
+          value={selectedOwner}
+          onChange={(e) => setSelectedOwner(e.target.value)}
+          className="owner-filter-select"
+        >
+          {owners.map((owner, index) => (
+            <option key={index} value={owner}>
+              {owner}
+            </option>
+          ))}
+        </select>
+      </div>
+
+      {filteredTeams.map((team, index) => (
         <div key={index} className="team-keeper-card">
           <div className="team-keeper-header">
             <h3>{team.teamName}</h3>

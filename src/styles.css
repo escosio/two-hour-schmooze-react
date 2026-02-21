@@ -228,7 +228,45 @@ td {
 
 .keeper-values-subtitle {
   color: #666;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+.filter-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 25px;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.filter-section label {
+  font-weight: 600;
+  color: #333;
+}
+
+.owner-filter-select {
+  padding: 10px 16px;
+  font-size: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  background: white;
+  cursor: pointer;
+  min-width: 150px;
+  transition: border-color 0.2s ease;
+}
+
+.owner-filter-select:hover {
+  border-color: #4caf50;
+}
+
+.owner-filter-select:focus {
+  outline: none;
+  border-color: #4caf50;
+  box-shadow: 0 0 0 3px rgba(76, 175, 80, 0.1);
 }
 
 .team-keeper-card {
