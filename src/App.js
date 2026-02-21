@@ -1,18 +1,32 @@
 import "./styles.css";
 import { useState } from "react";
+import { Routes, Route, NavLink } from "react-router-dom";
 import keepers from "./data/keeper_data";
 import { Header } from "./Header";
 import { PlayerFilter } from "./PlayerFilter";
 import { Results } from "./Results";
-import { Footer } from "./Footer";
-import Results2024 from "./Results2024";
-import draft2024data from "./data/draftResults2024.json";
+import { Footer } from "./components/Footer";
+import KeeperValues2026 from "./KeeperValues2026";
+import DraftResults2025 from "./DraftResults2025";
 
 const owners = [
   ...new Set(
-    keepers.map((team) => team.owner).filter((name) => name != "Lamarr")
+    keepers.map((team) => team.owner).filter((name) => name != "Lamarr"),
   ),
 ];
+
+// const useReducer = (state, action) => {
+//   switch (action.type) {
+//     case "filterPlayer":
+//       return { ...state };
+//     default:
+//       return state;
+//   }
+// };
+
+// function Keepers() {
+//   const [keepers, dispatch] = useReducer(reducer, keepers);
+// }
 
 const playersNames = [...new Set(keepers.map((player) => player.player_name))];
 
@@ -21,7 +35,6 @@ export default function App() {
   const [team, setTeam] = useState("All");
   const [year, setYear] = useState("All");
   const [selectedPlayer, setSelectedPlayer] = useState("All");
-  const [showSearch, setShowSearch] = useState(false);
 
   function filterByTeam(team) {
     setPlayers((players) => players.filter((player) => player.owner === team));
@@ -29,7 +42,7 @@ export default function App() {
 
   function filterByPlayer(playerName) {
     setPlayers((players) =>
-      players.filter((player) => player.player_name === playerName)
+      players.filter((player) => player.player_name === playerName),
     );
   }
 
@@ -57,26 +70,8 @@ export default function App() {
     }
   }
 
-  return (
-    <div className="App">
-      <Header />
-      {showSearch ? (
-        <>
-          <button className="btn" onClick={() => setShowSearch(!showSearch)}>
-            Hide draft results
-          </button>
-          <Results2024 draftResults={draft2024data} />
-        </>
-      ) : (
-        <button
-          className="btn"
-          onClick={() => setShowSearch(!showSearch)}
-          style={{ marginTop: "20px" }}
-        >
-          Want to search last year's draft results?
-        </button>
-      )}
-
+  const HomePage = () => (
+    <>
       <PlayerFilter
         players={players}
         keepers={keepers}
@@ -90,7 +85,32 @@ export default function App() {
         onReset={handleReset}
       />
       <Results players={players} keepers={keepers} onReset={handleReset} />
-      <Footer />
+    </>
+  );
+
+  return (
+    <div className="App">
+      <Header />
+
+      {/* Page Navigation */}
+      <nav className="page-nav">
+        <NavLink to="/" className="nav-btn" end>
+          Keeper History
+        </NavLink>
+        <NavLink to="/draft-results-2025" className="nav-btn">
+          2025 Draft Results
+        </NavLink>
+        <NavLink to="/keeper-values" className="nav-btn">
+          2026 Keeper Values
+        </NavLink>
+      </nav>
+
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/draft-results-2025" element={<DraftResults2025 />} />
+        <Route path="/keeper-values" element={<KeeperValues2026 />} />
+      </Routes>
+      {/* <Footer /> */}
     </div>
   );
 }

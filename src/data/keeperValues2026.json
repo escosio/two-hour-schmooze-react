@@ -1,0 +1,2353 @@
+{
+  "teams": [
+    {
+      "teamName": "Meet me at Stan's",
+      "owner": "Scott",
+      "previouslyKept": [
+        {
+          "player": "Bryan Reynolds",
+          "price2025": 21,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 28
+        },
+        {
+          "player": "Mark Vientos",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Anthony Volpe",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Jasson Domínguez",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Kodai Senga",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Ben Rice",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Freddie Freeman",
+          "price2025": 39,
+          "nextKeep": "1st (+$3)",
+          "price2026": 42
+        },
+        {
+          "player": "Amed Rosario",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jacob Wilson",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Noelvi Marte",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Gleyber Torres",
+          "price2025": 7,
+          "nextKeep": "1st (+$3)",
+          "price2026": 10
+        },
+        {
+          "player": "Rafael Devers",
+          "price2025": 40,
+          "nextKeep": "1st (+$3)",
+          "price2026": 43
+        },
+        {
+          "player": "Chris Paddack",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Eury Pérez",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Will Vest",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Robert Suarez",
+          "price2025": 12,
+          "nextKeep": "1st (+$3)",
+          "price2026": 15
+        },
+        {
+          "player": "Garrett Cleavinger",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Luke Weaver",
+          "price2025": 2,
+          "nextKeep": "1st (+$3)",
+          "price2026": 5
+        },
+        {
+          "player": "Jack Leiter",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jesús Luzardo",
+          "price2025": 2,
+          "nextKeep": "1st (+$3)",
+          "price2026": 5
+        },
+        {
+          "player": "Yu Darvish",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Sandy Alcantara",
+          "price2025": 20,
+          "nextKeep": "1st (+$3)",
+          "price2026": 23
+        },
+        {
+          "player": "Cole Ragans",
+          "price2025": 32,
+          "nextKeep": "1st (+$3)",
+          "price2026": 35
+        },
+        {
+          "player": "Luis Robert Jr.",
+          "price2025": 17,
+          "nextKeep": "1st (+$3)",
+          "price2026": 20
+        },
+        {
+          "player": "Jacob Lopez",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Chris Bassitt",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Jeimer Candelario",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        }
+      ]
+    },
+    {
+      "teamName": "Boat Lords",
+      "owner": "Marc",
+      "previouslyKept": [
+        {
+          "player": "Dylan Cease",
+          "price2025": 25,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 30
+        },
+        {
+          "player": "Marcell Ozuna",
+          "price2025": 9,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 16
+        },
+        {
+          "player": "Michael King",
+          "price2025": 16,
+          "timesKept": "3x",
+          "nextKeep": "Ineligible",
+          "price2026": "INELIGIBLE"
+        },
+        {
+          "player": "Shohei Ohtani (Pitcher)",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Will Smith",
+          "price2025": 21,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 26
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Paul Goldschmidt",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Jose Altuve",
+          "price2025": 27,
+          "nextKeep": "1st (+$3)",
+          "price2026": 30
+        },
+        {
+          "player": "Miguel Vargas",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Corey Seager",
+          "price2025": 34,
+          "nextKeep": "1st (+$3)",
+          "price2026": 37
+        },
+        {
+          "player": "Trevor Larnach",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Andy Pages",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Masyn Winn",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Colton Cowser",
+          "price2025": 11,
+          "nextKeep": "1st (+$3)",
+          "price2026": 14
+        },
+        {
+          "player": "Max Muncy",
+          "price2025": 5,
+          "nextKeep": "1st (+$3)",
+          "price2026": 8
+        },
+        {
+          "player": "José Soriano",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Yoshinobu Yamamoto",
+          "price2025": 29,
+          "nextKeep": "1st (+$3)",
+          "price2026": 32
+        },
+        {
+          "player": "Tyler Rogers",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Kyle Leahy",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Blake Treinen",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Phil Maton",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Aroldis Chapman",
+          "price2025": 5,
+          "nextKeep": "1st (+$3)",
+          "price2026": 8
+        },
+        {
+          "player": "Emilio Pagán",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Eduardo Rodriguez",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Alex Vesia",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Rhys Hoskins",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Kyle Stowers",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        }
+      ]
+    },
+    {
+      "teamName": "Bring back Mookie",
+      "owner": "Manz",
+      "previouslyKept": [
+        {
+          "player": "Juan Soto",
+          "price2025": 51,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 58
+        },
+        {
+          "player": "Jarren Duran",
+          "price2025": 19,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 24
+        },
+        {
+          "player": "Triston Casas",
+          "price2025": 16,
+          "timesKept": "3x",
+          "nextKeep": "Ineligible",
+          "price2026": "INELIGIBLE"
+        },
+        {
+          "player": "Roman Anthony",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Kyle Teel",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Michael Busch",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Mookie Betts",
+          "price2025": 48,
+          "nextKeep": "1st (+$3)",
+          "price2026": 51
+        },
+        {
+          "player": "Maikel Garcia",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Geraldo Perdomo",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Ryan O'Hearn",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Mike Trout",
+          "price2025": 22,
+          "nextKeep": "1st (+$3)",
+          "price2026": 25
+        },
+        {
+          "player": "Jared Triolo",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Carlos Narváez",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Carson Kelly",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Zack Littell",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Tanner Bibee",
+          "price2025": 18,
+          "nextKeep": "1st (+$3)",
+          "price2026": 21
+        },
+        {
+          "player": "Greg Weissert",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Gabe Speier",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Adrian Morejon",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Quinn Priester",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Aaron Nola",
+          "price2025": 23,
+          "nextKeep": "1st (+$3)",
+          "price2026": 26
+        },
+        {
+          "player": "Eric Lauer",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Garrett Whitlock",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Merrill Kelly",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Wilyer Abreu",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        }
+      ]
+    },
+    {
+      "teamName": "Dan's Fancy Boys",
+      "owner": "DanJW",
+      "previouslyKept": [
+        {
+          "player": "Elly De La Cruz",
+          "price2025": 9,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 16
+        },
+        {
+          "player": "Michael Harris II",
+          "price2025": 9,
+          "timesKept": "3x",
+          "nextKeep": "Ineligible",
+          "price2026": "INELIGIBLE"
+        },
+        {
+          "player": "Lawrence Butler",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Jacob deGrom",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Pablo López",
+          "price2025": 12,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 19
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Yainer Diaz",
+          "price2025": 14,
+          "nextKeep": "1st (+$3)",
+          "price2026": 17
+        },
+        {
+          "player": "Vinnie Pasquantino",
+          "price2025": 15,
+          "nextKeep": "1st (+$3)",
+          "price2026": 18
+        },
+        {
+          "player": "Xavier Edwards",
+          "price2025": 12,
+          "nextKeep": "1st (+$3)",
+          "price2026": 15
+        },
+        {
+          "player": "Alec Bohm",
+          "price2025": 13,
+          "nextKeep": "1st (+$3)",
+          "price2026": 16
+        },
+        {
+          "player": "Ian Happ",
+          "price2025": 15,
+          "nextKeep": "1st (+$3)",
+          "price2026": 18
+        },
+        {
+          "player": "Steven Kwan",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Teoscar Hernández",
+          "price2025": 22,
+          "nextKeep": "1st (+$3)",
+          "price2026": 25
+        },
+        {
+          "player": "Christian Yelich",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        },
+        {
+          "player": "Jac Caglianone",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "José Berríos",
+          "price2025": 5,
+          "nextKeep": "1st (+$3)",
+          "price2026": 8
+        },
+        {
+          "player": "Raisel Iglesias",
+          "price2025": 17,
+          "nextKeep": "1st (+$3)",
+          "price2026": 20
+        },
+        {
+          "player": "Trevor Megill",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        },
+        {
+          "player": "Kyle Finnegan",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        },
+        {
+          "player": "Reed Garrett",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Brendon Little",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Ronny Henriquez",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jacob Misiorowski",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Bailey Ober",
+          "price2025": 18,
+          "nextKeep": "1st (+$3)",
+          "price2026": 21
+        },
+        {
+          "player": "MacKenzie Gore",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Matt Chapman",
+          "price2025": 14,
+          "nextKeep": "1st (+$3)",
+          "price2026": 17
+        },
+        {
+          "player": "Tyler Glasnow",
+          "price2025": 25,
+          "nextKeep": "1st (+$3)",
+          "price2026": 28
+        }
+      ]
+    },
+    {
+      "teamName": "Dog Days Denizens",
+      "owner": "Stephen",
+      "previouslyKept": [
+        {
+          "player": "Ketel Marte",
+          "price2025": 17,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 24
+        },
+        {
+          "player": "Jhoan Duran",
+          "price2025": 18,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 25
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "William Contreras",
+          "price2025": 23,
+          "nextKeep": "1st (+$3)",
+          "price2026": 26
+        },
+        {
+          "player": "Josh Bell",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jake Burger",
+          "price2025": 22,
+          "nextKeep": "1st (+$3)",
+          "price2026": 25
+        },
+        {
+          "player": "Carlos Correa",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "George Springer",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Randy Arozarena",
+          "price2025": 18,
+          "nextKeep": "1st (+$3)",
+          "price2026": 21
+        },
+        {
+          "player": "Byron Buxton",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Ronald Acuña Jr.",
+          "price2025": 31,
+          "nextKeep": "1st (+$3)",
+          "price2026": 34
+        },
+        {
+          "player": "Jo Adell",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Yandy Díaz",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        },
+        {
+          "player": "Brandon Lowe",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Sal Frelick",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Taylor Ward",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Tarik Skubal",
+          "price2025": 49,
+          "nextKeep": "1st (+$3)",
+          "price2026": 52
+        },
+        {
+          "player": "Chris Sale",
+          "price2025": 26,
+          "nextKeep": "1st (+$3)",
+          "price2026": 29
+        },
+        {
+          "player": "Ryne Nelson",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Orion Kerkering",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Cade Smith",
+          "price2025": 2,
+          "nextKeep": "1st (+$3)",
+          "price2026": 5
+        },
+        {
+          "player": "Jose A. Ferrer",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jeff Hoffman",
+          "price2025": 12,
+          "nextKeep": "1st (+$3)",
+          "price2026": 15
+        },
+        {
+          "player": "Michael Kopech",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Nolan Arenado",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        },
+        {
+          "player": "Bo Bichette",
+          "price2025": 10,
+          "nextKeep": "1st (+$3)",
+          "price2026": 13
+        },
+        {
+          "player": "Ben Joyce",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        }
+      ]
+    },
+    {
+      "teamName": "Green Monster",
+      "owner": "Andrew",
+      "previouslyKept": [
+        {
+          "player": "Jackson Chourio",
+          "price2025": 18,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 23
+        },
+        {
+          "player": "Jackson Merrill",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "James Wood",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Junior Caminero",
+          "price2025": 6,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 11
+        },
+        {
+          "player": "Zack Wheeler",
+          "price2025": 25,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 32
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Adley Rutschman",
+          "price2025": 24,
+          "nextKeep": "1st (+$3)",
+          "price2026": 27
+        },
+        {
+          "player": "Matt Olson",
+          "price2025": 39,
+          "nextKeep": "1st (+$3)",
+          "price2026": 42
+        },
+        {
+          "player": "Jonathan India",
+          "price2025": 5,
+          "nextKeep": "1st (+$3)",
+          "price2026": 8
+        },
+        {
+          "player": "Jeremy Peña",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Pete Crow-Armstrong",
+          "price2025": 10,
+          "nextKeep": "1st (+$3)",
+          "price2026": 13
+        },
+        {
+          "player": "Cam Smith",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Ezequiel Tovar",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Nico Hoerner",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        },
+        {
+          "player": "Kristian Campbell",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Drake Baldwin",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Dylan Crews",
+          "price2025": 11,
+          "nextKeep": "1st (+$3)",
+          "price2026": 14
+        },
+        {
+          "player": "Austin Riley",
+          "price2025": 31,
+          "nextKeep": "1st (+$3)",
+          "price2026": 34
+        },
+        {
+          "player": "Kevin Gausman",
+          "price2025": 12,
+          "nextKeep": "1st (+$3)",
+          "price2026": 15
+        },
+        {
+          "player": "Ryan Walker",
+          "price2025": 17,
+          "nextKeep": "1st (+$3)",
+          "price2026": 20
+        },
+        {
+          "player": "Andrés Muñoz",
+          "price2025": 22,
+          "nextKeep": "1st (+$3)",
+          "price2026": 25
+        },
+        {
+          "player": "Tanner Scott",
+          "price2025": 12,
+          "nextKeep": "1st (+$3)",
+          "price2026": 15
+        },
+        {
+          "player": "Kenley Jansen",
+          "price2025": 6,
+          "nextKeep": "1st (+$3)",
+          "price2026": 9
+        },
+        {
+          "player": "Chase Burns",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Max Scherzer",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Tyler Mahle",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Roki Sasaki",
+          "price2025": 22,
+          "nextKeep": "1st (+$3)",
+          "price2026": 25
+        },
+        {
+          "player": "Andrew Painter",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        }
+      ]
+    },
+    {
+      "teamName": "Torpedo Bats",
+      "owner": "Alex",
+      "previouslyKept": [
+        {
+          "player": "Julio Rodríguez",
+          "price2025": 29,
+          "timesKept": "3x",
+          "nextKeep": "Ineligible",
+          "price2026": "INELIGIBLE"
+        },
+        {
+          "player": "Oneil Cruz",
+          "price2025": 16,
+          "timesKept": "3x",
+          "nextKeep": "Ineligible",
+          "price2026": "INELIGIBLE"
+        },
+        {
+          "player": "CJ Abrams",
+          "price2025": 9,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 16
+        },
+        {
+          "player": "Bryce Miller",
+          "price2025": 5,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 10
+        },
+        {
+          "player": "George Kirby",
+          "price2025": 26,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 33
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Hunter Goodman",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jonathan Aranda",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Ozzie Albies",
+          "price2025": 30,
+          "nextKeep": "1st (+$3)",
+          "price2026": 33
+        },
+        {
+          "player": "Luis Rengifo",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Heliot Ramos",
+          "price2025": 7,
+          "nextKeep": "1st (+$3)",
+          "price2026": 10
+        },
+        {
+          "player": "Bryson Stott",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Christian Walker",
+          "price2025": 18,
+          "nextKeep": "1st (+$3)",
+          "price2026": 21
+        },
+        {
+          "player": "Zach Neto",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Seiya Suzuki",
+          "price2025": 23,
+          "nextKeep": "1st (+$3)",
+          "price2026": 26
+        },
+        {
+          "player": "Matt Shaw",
+          "price2025": 14,
+          "nextKeep": "1st (+$3)",
+          "price2026": 17
+        },
+        {
+          "player": "Tyler Soderstrom",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Jeffrey Springs",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jack Flaherty",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Pete Fairbanks",
+          "price2025": 7,
+          "nextKeep": "1st (+$3)",
+          "price2026": 10
+        },
+        {
+          "player": "Brandon Pfaadt",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Mitch Keller",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "José Alvarado",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Bryan Woo",
+          "price2025": 15,
+          "nextKeep": "1st (+$3)",
+          "price2026": 18
+        },
+        {
+          "player": "Dustin May",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Blake Snell",
+          "price2025": 29,
+          "nextKeep": "1st (+$3)",
+          "price2026": 32
+        },
+        {
+          "player": "Isaac Paredes",
+          "price2025": 10,
+          "nextKeep": "1st (+$3)",
+          "price2026": 13
+        },
+        {
+          "player": "Chris Martin",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Bubba Chandler",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        }
+      ]
+    },
+    {
+      "teamName": "JC Rubber Arms",
+      "owner": "Conman",
+      "previouslyKept": [
+        {
+          "player": "Kyle Tucker",
+          "price2025": 23,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 28
+        },
+        {
+          "player": "Brenton Doyle",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Jordan Westburg",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Devin Williams",
+          "price2025": 8,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 13
+        },
+        {
+          "player": "Mason Miller",
+          "price2025": 6,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 11
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Ivan Herrera",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Bryce Eldridge",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Alex Bregman",
+          "price2025": 25,
+          "nextKeep": "1st (+$3)",
+          "price2026": 28
+        },
+        {
+          "player": "Trevor Story",
+          "price2025": 7,
+          "nextKeep": "1st (+$3)",
+          "price2026": 10
+        },
+        {
+          "player": "Cody Bellinger",
+          "price2025": 28,
+          "nextKeep": "1st (+$3)",
+          "price2026": 31
+        },
+        {
+          "player": "Ceddanne Rafaela",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Jakob Marsee",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Willy Adames",
+          "price2025": 18,
+          "nextKeep": "1st (+$3)",
+          "price2026": 21
+        },
+        {
+          "player": "Samuel Basallo",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Tyler O'Neill",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Hunter Brown",
+          "price2025": 19,
+          "nextKeep": "1st (+$3)",
+          "price2026": 22
+        },
+        {
+          "player": "Andrew Abbott",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Keegan Akin",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Carlos Estévez",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "David Bednar",
+          "price2025": 7,
+          "nextKeep": "1st (+$3)",
+          "price2026": 10
+        },
+        {
+          "player": "Nick Pivetta",
+          "price2025": 12,
+          "nextKeep": "1st (+$3)",
+          "price2026": 15
+        },
+        {
+          "player": "Dennis Santana",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Brayan Bello",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Brandon Woodruff",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Hunter Greene",
+          "price2025": 21,
+          "nextKeep": "1st (+$3)",
+          "price2026": 24
+        },
+        {
+          "player": "Anthony Santander",
+          "price2025": 28,
+          "nextKeep": "1st (+$3)",
+          "price2026": 31
+        }
+      ]
+    },
+    {
+      "teamName": "A Little Berti Told Me",
+      "owner": "Levy",
+      "previouslyKept": [
+        {
+          "player": "Gunnar Henderson",
+          "price2025": 34,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 41
+        },
+        {
+          "player": "Brent Rooker",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Paul Skenes",
+          "price2025": 7,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 12
+        },
+        {
+          "player": "Seth Lugo",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Gabriel Moreno",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Bryce Harper",
+          "price2025": 38,
+          "nextKeep": "1st (+$3)",
+          "price2026": 41
+        },
+        {
+          "player": "Jake Cronenworth",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Eugenio Suárez",
+          "price2025": 16,
+          "nextKeep": "1st (+$3)",
+          "price2026": 19
+        },
+        {
+          "player": "Trent Grisham",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "TJ Friedl",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Kyle Schwarber",
+          "price2025": 32,
+          "nextKeep": "1st (+$3)",
+          "price2026": 35
+        },
+        {
+          "player": "Otto Lopez",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Jordan Beck",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Ernie Clement",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Alejandro Kirk",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Trey Yesavage",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Trevor Rogers",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Edwin Díaz",
+          "price2025": 27,
+          "nextKeep": "1st (+$3)",
+          "price2026": 30
+        },
+        {
+          "player": "Matthew Liberatore",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Cam Schlittler",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Emmet Sheehan",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Caleb Thielbar",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Zac Gallen",
+          "price2025": 15,
+          "nextKeep": "1st (+$3)",
+          "price2026": 18
+        },
+        {
+          "player": "Brandon Sproat",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Xander Bogaerts",
+          "price2025": 11,
+          "nextKeep": "1st (+$3)",
+          "price2026": 14
+        },
+        {
+          "player": "Corbin Burnes",
+          "price2025": 26,
+          "nextKeep": "1st (+$3)",
+          "price2026": 29
+        }
+      ]
+    },
+    {
+      "teamName": "Melkman",
+      "owner": "Tumin",
+      "previouslyKept": [
+        {
+          "player": "Shohei Ohtani (Batter)",
+          "price2025": 16,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 21
+        },
+        {
+          "player": "Aaron Judge",
+          "price2025": 41,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 46
+        },
+        {
+          "player": "José Ramírez",
+          "price2025": 52,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 57
+        },
+        {
+          "player": "Francisco Lindor",
+          "price2025": 29,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 34
+        },
+        {
+          "player": "Jazz Chisholm Jr.",
+          "price2025": 15,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 20
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Shea Langeliers",
+          "price2025": 11,
+          "nextKeep": "1st (+$3)",
+          "price2026": 14
+        },
+        {
+          "player": "Spencer Torkelson",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jurickson Profar",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Oneil Cruz",
+          "price2025": 16,
+          "nextKeep": "1st (+$3)",
+          "price2026": 19
+        },
+        {
+          "player": "Daylen Lile",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Alec Burleson",
+          "price2025": 7,
+          "nextKeep": "1st (+$3)",
+          "price2026": 10
+        },
+        {
+          "player": "Eric Wagaman",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Ramón Laureano",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Daulton Varsho",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Noah Cameron",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Ranger Suárez",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Shawn Armstrong",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Tony Santillan",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "JoJo Romero",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Kyle Bradish",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Matt Strahm",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Spencer Strider",
+          "price2025": 20,
+          "nextKeep": "1st (+$3)",
+          "price2026": 23
+        },
+        {
+          "player": "Framber Valdez",
+          "price2025": 25,
+          "nextKeep": "1st (+$3)",
+          "price2026": 28
+        }
+      ]
+    },
+    {
+      "teamName": "Normentino's Ninos",
+      "owner": "Norment",
+      "previouslyKept": [
+        {
+          "player": "Bobby Witt Jr.",
+          "price2025": 40,
+          "timesKept": "3x",
+          "nextKeep": "Ineligible",
+          "price2026": "INELIGIBLE"
+        },
+        {
+          "player": "Matt McLain",
+          "price2025": 7,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 14
+        },
+        {
+          "player": "Logan Gilbert",
+          "price2025": 23,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 28
+        },
+        {
+          "player": "Spencer Schwellenbach",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Jared Jones",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Agustín Ramírez",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Nick Kurtz",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Caleb Durbin",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Colson Montgomery",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Addison Barger",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Chandler Simpson",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Harrison Bader",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Fernando Tatis Jr.",
+          "price2025": 45,
+          "nextKeep": "1st (+$3)",
+          "price2026": 48
+        },
+        {
+          "player": "Spencer Steer",
+          "price2025": 3,
+          "nextKeep": "1st (+$3)",
+          "price2026": 6
+        },
+        {
+          "player": "Wyatt Langford",
+          "price2025": 29,
+          "nextKeep": "1st (+$3)",
+          "price2026": 32
+        },
+        {
+          "player": "Royce Lewis",
+          "price2025": 6,
+          "nextKeep": "1st (+$3)",
+          "price2026": 9
+        },
+        {
+          "player": "Adrian Houser",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Hurston Waldrep",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Brad Keller",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Andrew Kittredge",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Nick Lodolo",
+          "price2025": 2,
+          "nextKeep": "1st (+$3)",
+          "price2026": 5
+        },
+        {
+          "player": "Abner Uribe",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Bryce Elder",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Matt Brash",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Justin Verlander",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Parker Messick",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Yordan Alvarez",
+          "price2025": 50,
+          "nextKeep": "1st (+$3)",
+          "price2026": 53
+        }
+      ]
+    },
+    {
+      "teamName": "Baty's Day Out",
+      "owner": "Anna",
+      "previouslyKept": [
+        {
+          "player": "Pete Alonso",
+          "price2025": 45,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 52
+        },
+        {
+          "player": "Riley Greene",
+          "price2025": 12,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 17
+        },
+        {
+          "player": "Jurickson Profar",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Emmanuel Clase",
+          "price2025": 24,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 29
+        },
+        {
+          "player": "Shota Imanaga",
+          "price2025": 12,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 17
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Cal Raleigh",
+          "price2025": 18,
+          "nextKeep": "1st (+$3)",
+          "price2026": 21
+        },
+        {
+          "player": "Brice Turang",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        },
+        {
+          "player": "Jorge Polanco",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "J.P. Crawford",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jeff McNeil",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Gavin Sheets",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Gavin Lux",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "José Caballero",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Salvador Perez",
+          "price2025": 21,
+          "nextKeep": "1st (+$3)",
+          "price2026": 24
+        },
+        {
+          "player": "Brett Baty",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Luis Severino",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Max Fried",
+          "price2025": 20,
+          "nextKeep": "1st (+$3)",
+          "price2026": 23
+        },
+        {
+          "player": "Hunter Gaddis",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Camilo Doval",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Nolan McLean",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "David Peterson",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Bryan Abreu",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Luis Castillo",
+          "price2025": 15,
+          "nextKeep": "1st (+$3)",
+          "price2026": 18
+        },
+        {
+          "player": "Jonah Tong",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Ryan Pepiot",
+          "price2025": 5,
+          "nextKeep": "1st (+$3)",
+          "price2026": 8
+        },
+        {
+          "player": "Trea Turner",
+          "price2025": 33,
+          "nextKeep": "1st (+$3)",
+          "price2026": 36
+        },
+        {
+          "player": "Jorge Soler",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        }
+      ]
+    },
+    {
+      "teamName": "The Owl's Scowl",
+      "owner": "Nate B",
+      "previouslyKept": [
+        {
+          "player": "Josh Naylor",
+          "price2025": 13,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 20
+        },
+        {
+          "player": "Luis Arraez",
+          "price2025": 8,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 15
+        },
+        {
+          "player": "Garrett Crochet",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        },
+        {
+          "player": "Logan Webb",
+          "price2025": 20,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 27
+        },
+        {
+          "player": "Freddy Peralta",
+          "price2025": 18,
+          "timesKept": "2x",
+          "nextKeep": "3rd (+$7)",
+          "price2026": 25
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "Kyle Higashioka",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Blaze Alexander",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Miguel Andujar",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Dansby Swanson",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Brandon Nimmo",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Joc Pederson",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Mickey Moniak",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Nick Castellanos",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        },
+        {
+          "player": "Kyle Manzardo",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Drew Gilbert",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Shane Bieber",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Robbie Ray",
+          "price2025": 10,
+          "nextKeep": "1st (+$3)",
+          "price2026": 13
+        },
+        {
+          "player": "Calvin Faucher",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Jeremiah Estrada",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Robert Garcia",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Cristopher Sánchez",
+          "price2025": 8,
+          "nextKeep": "1st (+$3)",
+          "price2026": 11
+        },
+        {
+          "player": "Ryan Helsley",
+          "price2025": 22,
+          "nextKeep": "1st (+$3)",
+          "price2026": 25
+        },
+        {
+          "player": "Sonny Gray",
+          "price2025": 13,
+          "nextKeep": "1st (+$3)",
+          "price2026": 16
+        }
+      ]
+    },
+    {
+      "teamName": "Here for the Vibes",
+      "owner": "Wayne",
+      "previouslyKept": [
+        {
+          "player": "Corbin Carroll",
+          "price2025": 12,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 17
+        },
+        {
+          "player": "Vladimir Guerrero Jr.",
+          "price2025": 48,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 53
+        },
+        {
+          "player": "Manny Machado",
+          "price2025": 46,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 51
+        },
+        {
+          "player": "Jackson Holliday",
+          "price2025": 7,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 12
+        },
+        {
+          "player": "Yusei Kikuchi",
+          "price2025": 4,
+          "timesKept": "1x",
+          "nextKeep": "2nd (+$5)",
+          "price2026": 9
+        }
+      ],
+      "newEligible": [
+        {
+          "player": "J.T. Realmuto",
+          "price2025": 7,
+          "nextKeep": "1st (+$3)",
+          "price2026": 10
+        },
+        {
+          "player": "Luke Keaschall",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Willi Castro",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Kerry Carpenter",
+          "price2025": 9,
+          "nextKeep": "1st (+$3)",
+          "price2026": 12
+        },
+        {
+          "player": "Giancarlo Stanton",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Austin Wells",
+          "price2025": 18,
+          "nextKeep": "1st (+$3)",
+          "price2026": 21
+        },
+        {
+          "player": "Tommy Edman",
+          "price2025": 11,
+          "nextKeep": "1st (+$3)",
+          "price2026": 14
+        },
+        {
+          "player": "Joe Ryan",
+          "price2025": 17,
+          "nextKeep": "1st (+$3)",
+          "price2026": 20
+        },
+        {
+          "player": "Carlos Rodón",
+          "price2025": 13,
+          "nextKeep": "1st (+$3)",
+          "price2026": 16
+        },
+        {
+          "player": "Kirby Yates",
+          "price2025": 7,
+          "nextKeep": "1st (+$3)",
+          "price2026": 10
+        },
+        {
+          "player": "Jason Alexander",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Gavin Williams",
+          "price2025": 2,
+          "nextKeep": "1st (+$3)",
+          "price2026": 5
+        },
+        {
+          "player": "Cade Horton",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Casey Mize",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Will Warren",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Drew Rasmussen",
+          "price2025": 1,
+          "nextKeep": "1st (+$3)",
+          "price2026": 4
+        },
+        {
+          "player": "Clayton Kershaw",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Brady Singer",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        },
+        {
+          "player": "Adolis García",
+          "price2025": 17,
+          "nextKeep": "1st (+$3)",
+          "price2026": 20
+        },
+        {
+          "player": "Tylor Megill",
+          "price2025": 4,
+          "nextKeep": "1st (+$3)",
+          "price2026": 7
+        }
+      ]
+    }
+  ]
+}
