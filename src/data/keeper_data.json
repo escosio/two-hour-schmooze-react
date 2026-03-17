@@ -4039,5 +4039,635 @@
     "price": 4,
     "times_kept": null,
     "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Meet me at Stan's",
+    "owner": "Scott",
+    "player_name": "Rafael Devers",
+    "price": 43,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Meet me at Stan's",
+    "owner": "Scott",
+    "player_name": "Freddie Freeman",
+    "price": 42,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Meet me at Stan's",
+    "owner": "Scott",
+    "player_name": "Ben Rice",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Meet me at Stan's",
+    "owner": "Scott",
+    "player_name": "Jesús Luzardo",
+    "price": 5,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Meet me at Stan's",
+    "owner": "Scott",
+    "player_name": "Eury Pérez",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Boat Lords",
+    "owner": "Marc",
+    "player_name": "Kyle Stowers",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Boat Lords",
+    "owner": "Marc",
+    "player_name": "Andy Pages",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Boat Lords",
+    "owner": "Marc",
+    "player_name": "Will Smith",
+    "price": 26,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Boat Lords",
+    "owner": "Marc",
+    "player_name": "Yoshinobu Yamamoto",
+    "price": 32,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Boat Lords",
+    "owner": "Marc",
+    "player_name": "Shohei Ohtani (Pitcher)",
+    "price": 9,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Bring back Mookie",
+    "owner": "Manz",
+    "player_name": "Roman Anthony",
+    "price": 9,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Bring back Mookie",
+    "owner": "Manz",
+    "player_name": "Geraldo Perdomo",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Bring back Mookie",
+    "owner": "Manz",
+    "player_name": "Maikel Garcia",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Bring back Mookie",
+    "owner": "Manz",
+    "player_name": "Wilyer Abreu",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Bring back Mookie",
+    "owner": "Manz",
+    "player_name": "Garrett Whitlock",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dan's Fancy Boys",
+    "owner": "DanJW",
+    "player_name": "Elly De La Cruz",
+    "price": 16,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dan's Fancy Boys",
+    "owner": "DanJW",
+    "player_name": "Vinnie Pasquantino",
+    "price": 18,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dan's Fancy Boys",
+    "owner": "DanJW",
+    "player_name": "Jacob deGrom",
+    "price": 9,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dan's Fancy Boys",
+    "owner": "DanJW",
+    "player_name": "Jacob Misiorowski",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dan's Fancy Boys",
+    "owner": "DanJW",
+    "player_name": "MacKenzie Gore",
+    "price": 6,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dog Days Denizens",
+    "owner": "Stephen",
+    "player_name": "Ronald Acuña Jr.",
+    "price": 34,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dog Days Denizens",
+    "owner": "Stephen",
+    "player_name": "Byron Buxton",
+    "price": 7,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dog Days Denizens",
+    "owner": "Stephen",
+    "player_name": "Jo Adell",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dog Days Denizens",
+    "owner": "Stephen",
+    "player_name": "Tarik Skubal",
+    "price": 52,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Dog Days Denizens",
+    "owner": "Stephen",
+    "player_name": "Cade Smith",
+    "price": 5,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Green Monster",
+    "owner": "Andrew",
+    "player_name": "Junior Caminero",
+    "price": 11,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Green Monster",
+    "owner": "Andrew",
+    "player_name": "Jackson Chourio",
+    "price": 23,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Green Monster",
+    "owner": "Andrew",
+    "player_name": "James Wood",
+    "price": 9,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Green Monster",
+    "owner": "Andrew",
+    "player_name": "Pete Crow-Armstrong",
+    "price": 13,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Green Monster",
+    "owner": "Andrew",
+    "player_name": "Jackson Merrill",
+    "price": 9,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Torpedo Bats",
+    "owner": "Alex",
+    "player_name": "Zach Neto",
+    "price": 7,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Torpedo Bats",
+    "owner": "Alex",
+    "player_name": "Tyler Soderstrom",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Torpedo Bats",
+    "owner": "Alex",
+    "player_name": "CJ Abrams",
+    "price": 16,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Torpedo Bats",
+    "owner": "Alex",
+    "player_name": "Bryan Woo",
+    "price": 18,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Torpedo Bats",
+    "owner": "Alex",
+    "player_name": "Bubba Chandler",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "JC Rubber Arms",
+    "owner": "Conman",
+    "player_name": "Kyle Tucker",
+    "price": 28,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "JC Rubber Arms",
+    "owner": "Conman",
+    "player_name": "Trevor Story",
+    "price": 10,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "JC Rubber Arms",
+    "owner": "Conman",
+    "player_name": "Samuel Basallo",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "JC Rubber Arms",
+    "owner": "Conman",
+    "player_name": "Mason Miller",
+    "price": 11,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "JC Rubber Arms",
+    "owner": "Conman",
+    "player_name": "Andrew Abbott",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Wacha Wacha",
+    "owner": "Levy",
+    "player_name": "Gunnar Henderson",
+    "price": 41,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Wacha Wacha",
+    "owner": "Levy",
+    "player_name": "Kyle Schwarber",
+    "price": 35,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Wacha Wacha",
+    "owner": "Levy",
+    "player_name": "Paul Skenes",
+    "price": 12,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Wacha Wacha",
+    "owner": "Levy",
+    "player_name": "Edwin Díaz",
+    "price": 30,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Wacha Wacha",
+    "owner": "Levy",
+    "player_name": "Trey Yesavage",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Melkman",
+    "owner": "Tumin",
+    "player_name": "Aaron Judge",
+    "price": 46,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Melkman",
+    "owner": "Tumin",
+    "player_name": "Shohei Ohtani (Batter)",
+    "price": 21,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Melkman",
+    "owner": "Tumin",
+    "player_name": "José Ramírez",
+    "price": 57,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Melkman",
+    "owner": "Tumin",
+    "player_name": "Jazz Chisholm Jr.",
+    "price": 20,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Melkman",
+    "owner": "Tumin",
+    "player_name": "Francisco Lindor",
+    "price": 34,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Normentino's Ninos",
+    "owner": "Norment",
+    "player_name": "Nick Kurtz",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Normentino's Ninos",
+    "owner": "Norment",
+    "player_name": "Wyatt Langford",
+    "price": 32,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Normentino's Ninos",
+    "owner": "Norment",
+    "player_name": "Agustín Ramírez",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Normentino's Ninos",
+    "owner": "Norment",
+    "player_name": "Colson Montgomery",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Normentino's Ninos",
+    "owner": "Norment",
+    "player_name": "Chandler Simpson",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Baty's Day Out",
+    "owner": "Anna",
+    "player_name": "Cal Raleigh",
+    "price": 21,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Baty's Day Out",
+    "owner": "Anna",
+    "player_name": "Brice Turang",
+    "price": 12,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Baty's Day Out",
+    "owner": "Anna",
+    "player_name": "Riley Greene",
+    "price": 17,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Baty's Day Out",
+    "owner": "Anna",
+    "player_name": "Nolan McLean",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Baty's Day Out",
+    "owner": "Anna",
+    "player_name": "David Peterson",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "The Owl's Scowl",
+    "owner": "Nate B",
+    "player_name": "Josh Naylor",
+    "price": 20,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "The Owl's Scowl",
+    "owner": "Nate B",
+    "player_name": "Garrett Crochet",
+    "price": 9,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "The Owl's Scowl",
+    "owner": "Nate B",
+    "player_name": "Cristopher Sánchez",
+    "price": 11,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "The Owl's Scowl",
+    "owner": "Nate B",
+    "player_name": "Logan Webb",
+    "price": 27,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "The Owl's Scowl",
+    "owner": "Nate B",
+    "player_name": "Shane Bieber",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Here for the Vibes",
+    "owner": "Wayne",
+    "player_name": "Corbin Carroll",
+    "price": 17,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Here for the Vibes",
+    "owner": "Wayne",
+    "player_name": "Jackson Holliday",
+    "price": 12,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Here for the Vibes",
+    "owner": "Wayne",
+    "player_name": "Giancarlo Stanton",
+    "price": 4,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Here for the Vibes",
+    "owner": "Wayne",
+    "player_name": "Austin Wells",
+    "price": 21,
+    "times_kept": null,
+    "2024_price_to_keep": ""
+  },
+  {
+    "year": 2026,
+    "team": "Here for the Vibes",
+    "owner": "Wayne",
+    "player_name": "Carlos Rodón",
+    "price": 16,
+    "times_kept": null,
+    "2024_price_to_keep": ""
   }
 ]
