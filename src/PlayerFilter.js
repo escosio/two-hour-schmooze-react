@@ -15,11 +15,11 @@ export const PlayerFilter = ({
   const currentYear = new Date().getFullYear();
   const years = Array.from(
     { length: currentYear - 2019 },
-    (_, i) => currentYear - i
+    (_, i) => currentYear - i,
   );
   const owners = [
     ...new Set(
-      keepers.map((team) => team.owner).filter((name) => name != "Lamarr")
+      keepers.map((team) => team.owner).filter((name) => name != "Lamarr"),
     ),
   ];
 
@@ -36,14 +36,14 @@ export const PlayerFilter = ({
 
   return (
     <>
-      <h3>⚾️ Keepers History 🏟️</h3>
-      <p className="subheader">
+      <h2 className="page-title">⚾️ Keepers History 🏟️</h2>
+      <p className="page-subtitle">
         Historical table of keepers for the legendary fantasy baseball league,
         Two Hour Schmooze Radio. You may filter by Fantasy Owner, year, or
         player.
       </p>
       {/* <Rules /> */}
-      <form className="team-selection" onSubmit={onHandleSearch}>
+      <form className="filter-bar" onSubmit={onHandleSearch}>
         <DropDownOption filterName="team" value={team} onSetFilter={onSetTeam}>
           {owners.map((owner) => (
             <option value={owner} key={owner}>
@@ -74,16 +74,20 @@ export const PlayerFilter = ({
             </option>
           ))}
         </DropDownOption>
+        <div className="filter-bar-actions">
+          <button className="btn" type="submit">
+            Filter
+          </button>
+          <button
+            className="btn btn-secondary"
+            type="button"
+            onClick={handleReset}
+          >
+            Reset
+          </button>
+        </div>
       </form>
-      <div className="button-group">
-        <button className="btn" onClick={onHandleSearch}>
-          Filter
-        </button>
-        <button className="btn" onClick={handleReset}>
-          Reset
-        </button>
-      </div>
-      <i>Note: Troy sux</i>
+      <i className="aside-note">Note: Troy sux</i>
     </>
   );
 };
@@ -95,26 +99,30 @@ function DropDownOption({
   children,
   isNumber = false,
 }) {
+  const id = `filter-${filterName}`;
   return (
-    <li>
-      <label>Select a {filterName}</label>
-      <div style={{ margin: "8px 12px" }}>
-        {isNumber ? (
-          <select
-            value={value}
-            onChange={(e) => onSetFilter(Number(e.target.value))}
-          >
-            <option value="All">All</option>
-            {children}
-          </select>
-        ) : (
-          <select value={value} onChange={(e) => onSetFilter(e.target.value)}>
-            <option value="All">All</option>
-            {children}
-          </select>
-        )}
-      </div>
-    </li>
+    <div className="field">
+      <label htmlFor={id}>Select a {filterName}</label>
+      {isNumber ? (
+        <select
+          id={id}
+          value={value}
+          onChange={(e) => onSetFilter(Number(e.target.value))}
+        >
+          <option value="All">All</option>
+          {children}
+        </select>
+      ) : (
+        <select
+          id={id}
+          value={value}
+          onChange={(e) => onSetFilter(e.target.value)}
+        >
+          <option value="All">All</option>
+          {children}
+        </select>
+      )}
+    </div>
   );
 }
 

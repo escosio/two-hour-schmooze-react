@@ -3,7 +3,7 @@ export const TableHeader = ({ headerArray }) => {
     <thead>
       <tr>
         {headerArray.map((headerName) => (
-          <th>{headerName}</th>
+          <th key={headerName}>{headerName}</th>
         ))}
       </tr>
     </thead>

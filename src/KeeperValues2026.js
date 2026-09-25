@@ -13,8 +13,8 @@ function KeeperValues2026() {
 
   return (
     <div className="keeper-values-container">
-      <h2>2026 Keeper Values</h2>
-      <p className="keeper-values-subtitle">
+      <h2 className="page-title">2026 Keeper Values</h2>
+      <p className="page-subtitle">
         All player keeper eligibility and pricing for the 2026 season
       </p>
 
@@ -47,39 +47,41 @@ function KeeperValues2026() {
               <h4 className="section-header previously-kept">
                 Previously Kept Players
               </h4>
-              <table className="keeper-table">
-                <thead>
-                  <tr>
-                    <th>Player</th>
-                    <th>2025 Price</th>
-                    <th>Times Kept</th>
-                    <th>Next Keep</th>
-                    <th>2026 Price</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {team.previouslyKept.map((player, pIndex) => (
-                    <tr
-                      key={pIndex}
-                      className={
-                        player.price2026 === "INELIGIBLE" ? "ineligible" : ""
-                      }
-                    >
-                      <td>{player.player}</td>
-                      <td>${player.price2025}</td>
-                      <td>{player.timesKept}</td>
-                      <td>{player.nextKeep}</td>
-                      <td className="price-cell">
-                        {player.price2026 === "INELIGIBLE" ? (
-                          <span className="ineligible-badge">INELIGIBLE</span>
-                        ) : (
-                          `$${player.price2026}`
-                        )}
-                      </td>
+              <div className="table-wrap">
+                <table className="keeper-table">
+                  <thead>
+                    <tr>
+                      <th>Player</th>
+                      <th>2025 Price</th>
+                      <th>Times Kept</th>
+                      <th>Next Keep</th>
+                      <th>2026 Price</th>
                     </tr>
-                  ))}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    {team.previouslyKept.map((player, pIndex) => (
+                      <tr
+                        key={pIndex}
+                        className={
+                          player.price2026 === "INELIGIBLE" ? "ineligible" : ""
+                        }
+                      >
+                        <td>{player.player}</td>
+                        <td>${player.price2025}</td>
+                        <td>{player.timesKept}</td>
+                        <td>{player.nextKeep}</td>
+                        <td className="price-cell">
+                          {player.price2026 === "INELIGIBLE" ? (
+                            <span className="ineligible-badge">INELIGIBLE</span>
+                          ) : (
+                            `$${player.price2026}`
+                          )}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
             </div>
           )}
 
@@ -89,26 +91,28 @@ function KeeperValues2026() {
               <h4 className="section-header new-eligible">
                 New Eligible Players
               </h4>
-              <table className="keeper-table">
-                <thead>
-                  <tr>
-                    <th>Player</th>
-                    <th>2025 Price</th>
-                    <th>Next Keep</th>
-                    <th>2026 Price</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {team.newEligible.map((player, pIndex) => (
-                    <tr key={pIndex}>
-                      <td>{player.player}</td>
-                      <td>${player.price2025}</td>
-                      <td>{player.nextKeep}</td>
-                      <td className="price-cell">${player.price2026}</td>
+              <div className="table-wrap">
+                <table className="keeper-table">
+                  <thead>
+                    <tr>
+                      <th>Player</th>
+                      <th>2025 Price</th>
+                      <th>Next Keep</th>
+                      <th>2026 Price</th>
                     </tr>
-                  ))}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    {team.newEligible.map((player, pIndex) => (
+                      <tr key={pIndex}>
+                        <td>{player.player}</td>
+                        <td>${player.price2025}</td>
+                        <td>{player.nextKeep}</td>
+                        <td className="price-cell">${player.price2026}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
             </div>
           )}
         </div>

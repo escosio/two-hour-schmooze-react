@@ -94,22 +94,26 @@ export default function App() {
 
       {/* Page Navigation */}
       <nav className="page-nav">
-        <NavLink to="/" className="nav-btn" end>
-          Keeper History
-        </NavLink>
-        <NavLink to="/draft-results-2025" className="nav-btn">
-          2025 Draft Results
-        </NavLink>
-        <NavLink to="/keeper-values" className="nav-btn">
-          2026 Keeper Values
-        </NavLink>
+        <div className="page-nav-inner">
+          <NavLink to="/" className="nav-btn" end>
+            Keeper History
+          </NavLink>
+          <NavLink to="/draft-results-2025" className="nav-btn">
+            2025 Draft Results
+          </NavLink>
+          <NavLink to="/keeper-values" className="nav-btn">
+            2026 Keeper Values
+          </NavLink>
+        </div>
       </nav>
 
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/draft-results-2025" element={<DraftResults2025 />} />
-        <Route path="/keeper-values" element={<KeeperValues2026 />} />
-      </Routes>
+      <main className="page">
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/draft-results-2025" element={<DraftResults2025 />} />
+          <Route path="/keeper-values" element={<KeeperValues2026 />} />
+        </Routes>
+      </main>
       {/* <Footer /> */}
     </div>
   );

@@ -11,18 +11,20 @@ import { NoResults } from "./NoResults";
  */
 export const ResultsTable = ({ headers, children, isEmpty, noResultsGif }) => {
   return (
-    <table className="results">
-      <TableHeader headerArray={headers} />
-      <tbody>
-        {children}
-        {isEmpty && (
-          <tr>
-            <td colSpan={headers.length}>
-              <NoResults gifUrl={noResultsGif} />
-            </td>
-          </tr>
-        )}
-      </tbody>
-    </table>
+    <div className="table-wrap">
+      <table className="results">
+        <TableHeader headerArray={headers} />
+        <tbody>
+          {children}
+          {isEmpty && (
+            <tr className="empty-row">
+              <td colSpan={headers.length}>
+                <NoResults gifUrl={noResultsGif} />
+              </td>
+            </tr>
+          )}
+        </tbody>
+      </table>
+    </div>
   );
 };
